@@ -1,0 +1,60 @@
+﻿{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Hugo Lloris",
+            "position": "GK",
+            "date_of_birth": "26/12/1986",
+            "current_club": "Tottenham Hotspur"
+        },
+        {
+            "number": "2",
+            "player": "Benjamin Pavard",
+            "position": "DF",
+            "date_of_birth": "28/3/1996",
+            "current_club": "Bayern Munich"
+        },
+        {
+            "number": "3",
+            "player": "Presnel Kimpembe",
+            "position": "DF",
+            "date_of_birth": "13/8/1995",
+            "current_club": "Paris Saint-Germain"
+        },
+        {
+            "number": "4",
+            "player": "Raphaël Varane",
+            "position": "DF",
+            "date_of_birth": "25/4/1993",
+            "current_club": "Real Madrid"
+        },
+        {
+            "number": "5",
+            "player": "Clément Lenglet",
+            "position": "DF",
+            "date_of_birth": "17/6/1995",
+            "current_club": "Barcelona"
+        },
+        {
+            "number": "6",
+            "player": "Paul Pogba",
+            "position": "MF",
+            "date_of_birth": "15/3/1993",
+            "current_club": "Manchester United"
+        },
+        {
+            "number": "7",
+            "player": "Antoine Griezmann",
+            "position": "FW",
+            "date_of_birth": "21/3/1991",
+            "current_club": "Barcelona"
+        },
+        {
+            "number": "8",
+            "player": "Thomas Lemar",
+            "position": "MF",
+            "date_of_birth": "12/11/1995",
+            "current_club": "Atlético Madrid"
+        }
+    ]
+}
