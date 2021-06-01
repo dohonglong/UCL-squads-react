@@ -1,7 +1,7 @@
 {
-  "homepage": "http://dohonglong.github.io/Euro-Squads",
-  "name": "euro-squads",
-  "proxy": "http://localhost:3000/Euro-Squads",
+  "homepage": "http://dohonglong.github.io/euro-squads-react",
+  "name": "euro-squads-react",
+  "proxy": "http://localhost:3000/euro-squads-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
