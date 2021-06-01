@@ -1,19 +1,34 @@
 import React, { useState } from 'react';
 import './App.css';
 
+import { Container } from 'react-bootstrap';
+import Navbar from 'react-bootstrap/Navbar';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import Button from './components/Button';
+
 function App() {
   const [players, setPlayers] = useState([]);
+  
 
   const getSquad = (event) => {
-    fetch(`squad/${event.target.value}.json`)
+    fetch(`./squad/${event.target.value}.json`)
     .then(response => response.json())
     .then(resData => setPlayers(resData.squad))
   };
 
+
   return ( 
     <div className="App">
-      <button onClick={getSquad} value="germany">Germany</button>
-      <button onClick={getSquad} value="france">France</button>
+      <Navbar style={{ backgroundColor: "#008EAA" }} variant="dark">
+        <Container>
+          <Navbar.Brand style={{ fontWeight: "bold" }}>EURO 2020</Navbar.Brand>
+
+          <Button click={getSquad} />
+
+        </Container>
+      </Navbar>
+
       <table>
         <tbody>
           <tr className="table_header">
