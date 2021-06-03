@@ -1,8 +1,13 @@
 .App {
   text-align: center;
+  background-image: url("./background.jpg");
 }
 
-table, th, td {
-  margin: auto;
-  border: 1px solid black;
+.ag-theme-alpine .ag-header-cell-label {
+  justify-content: center;
+  font-size: large;
+}
+
+.ag-theme-alpine .ag-ltr .ag-cell {
+  font-size: medium;
 }

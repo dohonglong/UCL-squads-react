@@ -9,7 +9,7 @@ function Button(props) {
     return(
         <div>
             <Dropdown as={ButtonGroup}>
-                <Dropdown.Toggle variant="success">Squads</Dropdown.Toggle>
+                <Dropdown.Toggle variant="success" size="lg" style={{ fontSize:'20px' , fontWeight: "bold" }}>Squads      </Dropdown.Toggle>
                 <Dropdown.Menu>
                     <Dropdown.Item as="button" value="france" onClick={props.click}>France</Dropdown.Item>
                     <Dropdown.Item as="button" value="germany" onClick={props.click}>Germany</Dropdown.Item>
