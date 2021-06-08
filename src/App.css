@@ -3,6 +3,10 @@
   background-image: url("./background.jpg");
 }
 
+.specialFont {
+  font-family: 'BridgeType', Arial, sans-serif;
+}
+
 .ag-theme-alpine .ag-header-cell-label {
   justify-content: center;
   font-size: large;

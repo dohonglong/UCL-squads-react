@@ -4,12 +4,12 @@ import ButtonGroup from "react-bootstrap/ButtonGroup";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 
-function Button(props) {
+function MyButton(props) {
 
     return(
         <div>
             <Dropdown as={ButtonGroup}>
-                <Dropdown.Toggle variant="success" size="lg" style={{ fontSize:'20px' , fontWeight: "bold" }}>Squads      </Dropdown.Toggle>
+                <Dropdown.Toggle variant="success" size="lg" style={{ fontSize:'23px' , fontWeight: "bold" }}>Squads      </Dropdown.Toggle>
                 <Dropdown.Menu>
                     <Dropdown.Item as="button" value="france" onClick={props.click}>France</Dropdown.Item>
                     <Dropdown.Item as="button" value="germany" onClick={props.click}>Germany</Dropdown.Item>
@@ -23,5 +23,5 @@ function Button(props) {
     )
 }
 
-export default Button;
+export default MyButton;
 
