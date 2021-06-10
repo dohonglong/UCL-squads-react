@@ -15,13 +15,26 @@ import 'ag-grid-community/dist/styles/ag-theme-alpine.css';
 
 function App() {
   const [players, setPlayers] = useState([]);
+  const [teamName, setTeamName] = useState('EURO 2020 SQUADS');
+  const [teamLogo, setTeamLogo] = useState('default');
+  const [teamBackground, setTeamBackground] = useState('default');
+
+  const getInfo = (event) => {
+    getSquad(event);
+    getEvent(event);
+  }
 
   const getSquad = (event) => {
     fetch(`./squads/${event.target.value}.json`)
     .then(response => response.json())
     .then(resData => setPlayers(resData.squad))
   };
-
+  const getEvent = (event) => {
+    setTeamName(event.target.value);
+    setTeamLogo(event.target.value);
+    setTeamBackground(event.target.value);
+  } 
+  
   const navbar = {
     padding: 0,
     backgroundColor: '#ffae42'
@@ -41,7 +54,7 @@ function App() {
         <Container>
           <Navbar.Brand className="specialFont" style={{ fontSize:'30px' }}>EURO 2020</Navbar.Brand>
 
-          <MyButton click={getSquad} />
+          <MyButton click={getInfo} />
 
         </Container>
       </Navbar>
@@ -50,7 +63,11 @@ function App() {
       <Container style={{ width: "60%"}}>
 
         {/* Jumbotron */}
-        <MyJumbotron />
+        <MyJumbotron 
+          team={teamName} 
+          logo={`./images/logos/${teamLogo}.jpg`} 
+          background={`url(./images/backgrounds/${teamBackground}.jpg)`} 
+        />
 
         {/* Main table */}
         <div className="ag-theme-alpine" style={{ width: "100%", height: 1000, margin: 'auto'}}>
