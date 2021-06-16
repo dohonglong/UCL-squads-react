@@ -11,7 +11,7 @@ function MyButton(props) {
                 <Dropdown.Toggle variant="success" size="lg" style={{ fontSize:'23px' , fontWeight: "bold" }}>Squads&nbsp;</Dropdown.Toggle>
                 <Dropdown.Menu style={{ backgroundColor: '#E0E0E0' }}> 
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group A</h5>
-                        <Dropdown.Item as="button" value="turkey"><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Turkey-flat-icon.png" alt="TUR" />&nbsp;&nbsp;Turkey</Dropdown.Item>
+                        <Dropdown.Item as="button" value="turkey"           onClick={props.click}>      <img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Turkey-flat-icon.png" alt="TUR" />&nbsp;&nbsp;Turkey</Dropdown.Item>
                         <Dropdown.Item as="button" value="italy"><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Italy-flat-icon.png" alt="ITA" />&nbsp;&nbsp;Italy</Dropdown.Item>
                         <Dropdown.Item as="button" value="wales"><img className="flag"  src="https://icons.iconarchive.com/icons/gosquared/flag/32/Wales-flat-icon.png" alt="WAL" />&nbsp;&nbsp;Wales</Dropdown.Item>
                         <Dropdown.Item as="button" value="switzerland"><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Switzerland-flat-icon.png" alt="SUI" />&nbsp;&nbsp;Switzerland</Dropdown.Item>

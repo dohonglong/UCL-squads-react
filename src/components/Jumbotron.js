@@ -10,16 +10,17 @@ function MyJumbotron(props) {
     
     const JumbotronStyle = {
         margin: 'auto', 
-        minHeight: '630px',
-        paddingTop: 220, 
+        minHeight: '450px',
+        paddingTop: 160, 
         backgroundImage: props.background,
         backgroundPosition: 'center center',
+        backgroundColor: 'white',
         backgroundRepeat: 'no-repeat'
     }
     const ImageStyle = {
         border: '2px solid black', 
         backgroundColor: 'white',
-        maxWidth: '200px'
+        maxWidth: '190px'
     }
     const TitleStyle = {
         fontSize:'6vw', 
