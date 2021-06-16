@@ -9,9 +9,14 @@
 
 .ag-theme-alpine .ag-header-cell-label {
   justify-content: center;
-  font-size: large;
+  font-size: medium;
 }
 
 .ag-theme-alpine .ag-ltr .ag-cell {
   font-size: medium;
+}
+
+.dropdown-menu {
+  height: 420px;
+  overflow-y: scroll;
 }

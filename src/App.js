@@ -19,11 +19,16 @@ function App() {
   const [teamLogo, setTeamLogo] = useState('default');
   const [teamBackground, setTeamBackground] = useState('default');
 
+  const navbar = { padding: 0, backgroundColor: '#ffae42' }
+
+  const centerAlign = { textAlign: 'center' }
+  const leftAlign   = { textAlign: 'left' }
+
   const getInfo = (event) => {
     getSquad(event);
     getEvent(event);
   }
-
+  
   const getSquad = (event) => {
     fetch(`./squads/${event.target.value}.json`)
     .then(response => response.json())
@@ -34,17 +39,45 @@ function App() {
     setTeamLogo(event.target.value);
     setTeamBackground(event.target.value);
   } 
-  
-  const navbar = {
-    padding: 0,
-    backgroundColor: '#ffae42'
+
+  const countryCellRenderer = (params) => {
+    var url = 'https://icons.iconarchive.com/icons/gosquared/flag/32/' + params.data.country + '-flat-icon.png';
+    var flagImage = '<img className="flag" src="' + url + '">';
+    return flagImage + "&nbsp;&nbsp;&nbsp;" + params.data.current_club;
   }
 
-  const centerAlign = {
-    textAlign: 'center',
+  const ageCalculator = (params) => {
+    var today = new Date();
+    var birthDate = new Date(params.data.date_of_birth.replace(/(\d{2})[-/](\d{2})[-/](\d+)/, "$2/$1/$3"));
+    var age = today.getFullYear() - birthDate.getFullYear();
+    var month = today.getMonth() - birthDate.getMonth();
+    if (month < 0 || (month === 0 && today.getDate() < birthDate.getDate())) 
+    {
+        age--;
+    }
+    return params.data.date_of_birth + " (" + age + ")";
   }
-  const leftAlign = {
-    textAlign: 'left'
+
+  const ageComparator = (date1, date2) => {
+    var date1Number = monthToComparableNumber(date1);
+    var date2Number = monthToComparableNumber(date2);
+    if (date1Number === null && date2Number === null) {
+      return 0;
+    }
+    if (date1Number === null) {
+      return -1;
+    }
+    if (date2Number === null) {
+      return 1;
+    }
+    return date1Number - date2Number;
+  }
+  const monthToComparableNumber = (date) => { 
+    var dayNumber = date.substring(0, 2);
+    var monthNumber = date.substring(3, 5);
+    var yearNumber = date.substring(6, 10);
+    var result = yearNumber * 10000 + monthNumber * 100 + dayNumber;
+    return result;
   }
 
   return ( 
@@ -60,7 +93,7 @@ function App() {
       </Navbar>
 
       {/* Main body */}
-      <Container style={{ width: "60%"}}>
+      <Container style={{maxWidth: '68%'}}>
 
         {/* Jumbotron */}
         <MyJumbotron 
@@ -71,12 +104,19 @@ function App() {
 
         {/* Main table */}
         <div className="ag-theme-alpine" style={{ width: "100%", height: 1000, margin: 'auto'}}>
-          <AgGridReact rowData={players} animateRows={true}>
-            <AgGridColumn headerName="Number"         sortable={true} filter={true} cellStyle={centerAlign} field="number"        width={150}></AgGridColumn>
-            <AgGridColumn headerName="Player"         sortable={true} filter={true} cellStyle={leftAlign}   field="player"        width={280}></AgGridColumn>
-            <AgGridColumn headerName="Position"       sortable={true} filter={true} cellStyle={centerAlign} field="position"      width={150}></AgGridColumn>
-            <AgGridColumn headerName="Date of birth"  sortable={true} filter={true} cellStyle={centerAlign} field="date_of_birth" width={240} ></AgGridColumn>
-            <AgGridColumn headerName="Current club"   sortable={true} filter={true} cellStyle={leftAlign}   field="current_club"  width={285} ></AgGridColumn>
+          <AgGridReact 
+            rowData={players} 
+            animateRows={true} 
+          >
+              <AgGridColumn headerName="No."            sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="number"                width={110}></AgGridColumn>
+              <AgGridColumn headerName="Pos."           sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="position"              width={110}></AgGridColumn>
+              <AgGridColumn headerName="Player"         sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="player"                width={292}></AgGridColumn>
+              <AgGridColumn headerName="Date of birth (Age)"  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="date_of_birth"   width={200}
+                  valueGetter={ageCalculator}   comparator={ageComparator}></AgGridColumn>
+              <AgGridColumn headerName="Height (m)"     sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="height"                width={148}></AgGridColumn>
+              <AgGridColumn headerName="Foot"           sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="foot"                  width={110}></AgGridColumn>
+              <AgGridColumn headerName="Current Club"   sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="country&current_club"  width={292} 
+                  cellRenderer={countryCellRenderer}></AgGridColumn>
           </AgGridReact>
         </div>
         

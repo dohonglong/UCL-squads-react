@@ -2,9 +2,10 @@
     "squad": [
         {
             "number": "1",
-            "player": "Hugo Lloris",
+            "player": "Hugo Lloris (C)",
             "position": "GK",
             "date_of_birth": "26/12/1986",
+            "country": "England",
             "current_club": "Tottenham Hotspur"
         },
         {
@@ -12,6 +13,7 @@
             "player": "Benjamin Pavard",
             "position": "DF",
             "date_of_birth": "28/03/1996",
+            "country": "Germany",
             "current_club": "Bayern Munich"
         },
         {
@@ -19,6 +21,7 @@
             "player": "Presnel Kimpembe",
             "position": "DF",
             "date_of_birth": "13/08/1995",
+            "country": "France",
             "current_club": "Paris Saint-Germain"
         },
         {
@@ -26,6 +29,7 @@
             "player": "Raphaël Varane",
             "position": "DF",
             "date_of_birth": "25/04/1993",
+            "country": "Spain",
             "current_club": "Real Madrid"
         },
         {
@@ -33,6 +37,7 @@
             "player": "Clément Lenglet",
             "position": "DF",
             "date_of_birth": "17/06/1995",
+            "country": "Spain",
             "current_club": "Barcelona"
         },
         {
@@ -40,6 +45,7 @@
             "player": "Paul Pogba",
             "position": "MF",
             "date_of_birth": "15/03/1993",
+            "country": "England",
             "current_club": "Manchester United"
         },
         {
@@ -47,6 +53,7 @@
             "player": "Antoine Griezmann",
             "position": "FW",
             "date_of_birth": "21/03/1991",
+            "country": "Spain",
             "current_club": "Barcelona"
         },
         {
@@ -54,6 +61,7 @@
             "player": "Thomas Lemar",
             "position": "MF",
             "date_of_birth": "12/11/1995",
+            "country": "Spain",
             "current_club": "Atlético Madrid"
         }
     ]
