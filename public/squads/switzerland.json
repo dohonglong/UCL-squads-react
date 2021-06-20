@@ -1,0 +1,272 @@
+{
+    "squad": [
+        {
+            "number": 1,
+            "position": "GK",
+            "player": "Yann Sommer",
+            "date_of_birth": "17/12/1988",
+            "height": "1.83 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Borussia Mönchengladbach"
+        },
+        {
+            "number": 2,
+            "position": "DF",
+            "player": "Kevin Mbabu",
+            "date_of_birth": "19/04/1995",
+            "height": "1.84 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "VfL Wolfsburg"
+        },
+        {
+            "number": 3,
+            "position": "DF",
+            "player": "Silvan Widmer",
+            "date_of_birth": "05/03/1993",
+            "height": "1.82 m",
+            "foot": "right",
+            "club_country": "Switzerland",
+            "current_club": "Basel"
+        },
+        {
+            "number": 4,
+            "position": "DF",
+            "player": "Nico Elvedi",
+            "date_of_birth": "30/09/1996",
+            "height": "1.89 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Borussia Mönchengladbach"
+        },
+        {
+            "number": 5,
+            "position": "DF",
+            "player": "Manuel Akanji",
+            "date_of_birth": "19/07/1995",
+            "height": "1.87 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Borussia Dortmund"
+        },
+        {
+            "number": 6,
+            "position": "MF",
+            "player": "Denis Zakaria",
+            "date_of_birth": "20/11/1996",
+            "height": "1.90 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Borussia Mönchengladbach"
+        },
+        {
+            "number": 7,
+            "position": "FW",
+            "player": "Breel Embolo",
+            "date_of_birth": "14/02/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Borussia Mönchengladbach"
+        },
+        {
+            "number": 8,
+            "position": "MF",
+            "player": "Remo Freuler",
+            "date_of_birth": "15/04/1992",
+            "height": "1.80 m",
+            "foot": "right",
+            "club_country": "Italy",
+            "current_club": "Atalanta"
+        },
+        {
+            "number": 9,
+            "position": "FW",
+            "player": "Haris Seferović",
+            "date_of_birth": "22/02/1992",
+            "height": "1.86 m",
+            "foot": "left",
+            "club_country": "Portugal",
+            "current_club": "Benfica"
+        },
+        {
+            "number": 10,
+            "position": "MF",
+            "player": "Granit Xhaka (captain)",
+            "date_of_birth": "27/09/1992",
+            "height": "1.86 m",
+            "foot": "left",
+            "club_country": "England",
+            "current_club": "Arsenal"
+        },
+        {
+            "number": 11,
+            "position": "FW",
+            "player": "Ruben Vargas",
+            "date_of_birth": "05/08/1998",
+            "height": "1.79 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "FC Augsburg"
+        },
+        {
+            "number": 12,
+            "position": "GK",
+            "player": "Yvon Mvogo",
+            "date_of_birth": "06/06/1994",
+            "height": "1.89 m",
+            "foot": "right",
+            "club_country": "Netherlands",
+            "current_club": "PSV Eindhoven"
+        },
+        {
+            "number": 13,
+            "position": "DF",
+            "player": "Ricardo Rodríguez",
+            "date_of_birth": "25/08/1992",
+            "height": "1.80 m",
+            "foot": "left",
+            "club_country": "Italy",
+            "current_club": "Torino"
+        },
+        {
+            "number": 14,
+            "position": "MF",
+            "player": "Steven Zuber",
+            "date_of_birth": "17/08/1991",
+            "height": "1.82 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Eintracht Frankfurt"
+        },
+        {
+            "number": 15,
+            "position": "MF",
+            "player": "Djibril Sow",
+            "date_of_birth": "06/02/1997",
+            "height": "1.84 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Eintracht Frankfurt"
+        },
+        {
+            "number": 16,
+            "position": "FW",
+            "player": "Christian Fassnacht",
+            "date_of_birth": "11/11/1993",
+            "height": "1.85 m",
+            "foot": "right",
+            "club_country": "Switzerland",
+            "current_club": "Young Boys"
+        },
+        {
+            "number": 17,
+            "position": "DF",
+            "player": "Loris Benito",
+            "date_of_birth": "07/01/1992",
+            "height": "1.84 m",
+            "foot": "left",
+            "club_country": "France",
+            "current_club": "Bordeaux"
+        },
+        {
+            "number": 18,
+            "position": "FW",
+            "player": "Admir Mehmedi",
+            "date_of_birth": "16/03/1991",
+            "height": "1.83 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "VfL Wolfsburg"
+        },
+        {
+            "number": 19,
+            "position": "FW",
+            "player": "Mario Gavranović",
+            "date_of_birth": "24/11/1989",
+            "height": "1.75 m",
+            "foot": "right",
+            "club_country": "Croatia",
+            "current_club": "Dinamo Zagreb"
+        },
+        {
+            "number": 20,
+            "position": "MF",
+            "player": "Edimilson Fernandes",
+            "date_of_birth": "15/04/1996",
+            "height": "1.90 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Mainz 05"
+        },
+        {
+            "number": 21,
+            "position": "GK",
+            "player": "Gregor Kobel",
+            "date_of_birth": "06/12/1997",
+            "height": "1.94 m",
+            "foot": "right",
+            "club_country": "Germany",
+            "current_club": "Borussia Dortmund"
+        },
+        {
+            "number": 22,
+            "position": "DF",
+            "player": "Fabian Schär",
+            "date_of_birth": "20/12/1991",
+            "height": "1.86 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Newcastle United"
+        },
+        {
+            "number": 23,
+            "position": "MF",
+            "player": "Xherdan Shaqiri",
+            "date_of_birth": "10/10/1991",
+            "height": "1.69 m",
+            "foot": "left",
+            "club_country": "England",
+            "current_club": "Liverpool"
+        },
+        {
+            "number": 24,
+            "position": "DF",
+            "player": "Bećir Omeragić",
+            "date_of_birth": "20/01/2002",
+            "height": "1.87 m",
+            "foot": "right",
+            "club_country": "Switzerland",
+            "current_club": "Zürich"
+        },
+        {
+            "number": 25,
+            "position": "DF",
+            "player": "Eray Cömert",
+            "date_of_birth": "04/02/1998",
+            "height": "1.83 m",
+            "foot": "right",
+            "club_country": "Switzerland",
+            "current_club": "Basel"
+        },
+        {
+            "number": 26,
+            "position": "DF",
+            "player": "Jordan Lotomba",
+            "date_of_birth": "29/09/1998",
+            "height": "1.77 m",
+            "foot": "right",
+            "club_country": "France",
+            "current_club": "Nice"
+        },
+        {
+            "position": "Coach",
+            "player": "Vladimir Petković",
+            "date_of_birth": "15/08/1963",
+            "height": "1.90 m",
+            "club_country": "Bosnia-and-Herzegovina",
+            "current_club": "<b>BOSNIA AND HERZEGOVINA</b>"
+        }
+    ]
+}

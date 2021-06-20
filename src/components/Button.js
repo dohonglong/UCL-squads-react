@@ -13,8 +13,8 @@ function MyButton(props) {
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group A</h5>
                         <Dropdown.Item as="button" value="turkey"           onClick={props.click}><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Turkey-flat-icon.png" alt="TUR" />&nbsp;&nbsp;Turkey</Dropdown.Item>
                         <Dropdown.Item as="button" value="italy"            onClick={props.click}><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Italy-flat-icon.png" alt="ITA" />&nbsp;&nbsp;Italy</Dropdown.Item>
-                        <Dropdown.Item as="button" value="wales"><img className="flag"  src="https://icons.iconarchive.com/icons/gosquared/flag/32/Wales-flat-icon.png" alt="WAL" />&nbsp;&nbsp;Wales</Dropdown.Item>
-                        <Dropdown.Item as="button" value="switzerland"><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Switzerland-flat-icon.png" alt="SUI" />&nbsp;&nbsp;Switzerland</Dropdown.Item>
+                        <Dropdown.Item as="button" value="wales"            onClick={props.click}><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Wales-flat-icon.png" alt="WAL" />&nbsp;&nbsp;Wales</Dropdown.Item>
+                        <Dropdown.Item as="button" value="switzerland"      onClick={props.click}><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Switzerland-flat-icon.png" alt="SUI" />&nbsp;&nbsp;Switzerland</Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group B</h5>
                         <Dropdown.Item as="button" value="denmark"><img className="flag" src="https://icons.iconarchive.com/icons/gosquared/flag/32/Denmark-flat-icon.png" alt="DEN" />&nbsp;&nbsp;Denmark</Dropdown.Item>

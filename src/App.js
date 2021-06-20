@@ -93,7 +93,7 @@ function App() {
       </Navbar>
 
       {/* Main body */}
-      <Container style={{maxWidth: '68%'}}>
+      <Container style={{maxWidth: '80%'}}>
 
         {/* Jumbotron */}
         <MyJumbotron 
@@ -103,19 +103,19 @@ function App() {
         />
 
         {/* Main table */}
-        <div className="ag-theme-alpine" style={{ width: "100%", height: 1187, margin: 'auto'}}>
+        <div className="ag-theme-alpine" style={{ width: "100%", height: 1202, margin: 'auto'}}>
           <AgGridReact 
             rowData={players} 
             animateRows={true}
           >
-              <AgGridColumn headerName="No."                  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="number"                width={110}></AgGridColumn>
-              <AgGridColumn headerName="Pos."                 sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="position"              width={110}></AgGridColumn>
-              <AgGridColumn headerName="Player"               sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="player"                width={301}></AgGridColumn>
-              <AgGridColumn headerName="Date of birth (Age)"  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="date_of_birth"         width={200}
+              <AgGridColumn headerName="Number"               sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="number"                width={140}></AgGridColumn>
+              <AgGridColumn headerName="Player"               sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="player"                width={345}></AgGridColumn>
+              <AgGridColumn headerName="Position"             sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="position"              width={140}></AgGridColumn>
+              <AgGridColumn headerName="Date of birth (Age)"  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="date_of_birth"         width={230}
                   valueGetter={ageCalculator}   comparator={ageComparator}></AgGridColumn>
-              <AgGridColumn headerName="Height"               sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="height"                width={130}></AgGridColumn>
-              <AgGridColumn headerName="Foot"                 sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="foot"                  width={110}></AgGridColumn>
-              <AgGridColumn headerName="Current Club"         sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="club_country&current_club"  width={301} 
+              <AgGridColumn headerName="Height"               sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="height"                width={160}></AgGridColumn>
+              <AgGridColumn headerName="Foot"                 sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="foot"                  width={140}></AgGridColumn>
+              <AgGridColumn headerName="Current Club | Coach Nationality"         sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="club_country&current_club"  width={335} 
                   cellRenderer={countryCellRenderer}></AgGridColumn>
           </AgGridReact>
         </div>

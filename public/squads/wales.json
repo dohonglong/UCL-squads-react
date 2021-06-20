@@ -1,0 +1,272 @@
+{
+    "squad": [
+        {
+            "number": 1,
+            "position": "GK",
+            "player": "Wayne Hennessey",
+            "date_of_birth": "24/01/1987",
+            "height": "1.97 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Crystal Palace"
+        },
+        {
+            "number": 2,
+            "position": "DF",
+            "player": "Chris Gunter",
+            "date_of_birth": "21/07/1989",
+            "height": "1.80 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Charlton Athletic"
+        },
+        {
+            "number": 3,
+            "position": "DF",
+            "player": "Neco Williams",
+            "date_of_birth": "13/04/2001",
+            "height": "1.83 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Liverpool"
+        },
+        {
+            "number": 4,
+            "position": "DF",
+            "player": "Ben Davies",
+            "date_of_birth": "24/04/1993",
+            "height": "1.81 m",
+            "foot": "left",
+            "club_country": "England",
+            "current_club": "Tottenham Hotspur"
+        },
+        {
+            "number": 5,
+            "position": "DF",
+            "player": "Tom Lockyer",
+            "date_of_birth": "03/12/1994",
+            "height": "1.84 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Luton Town"
+        },
+        {
+            "number": 6,
+            "position": "DF",
+            "player": "Joe Rodon",
+            "date_of_birth": "22/10/1997",
+            "height": "1.93 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Tottenham Hotspur"
+        },
+        {
+            "number": 7,
+            "position": "MF",
+            "player": "Joe Allen",
+            "date_of_birth": "14/03/1990",
+            "height": "1.68 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Stoke City"
+        },
+        {
+            "number": 8,
+            "position": "MF",
+            "player": "Harry Wilson",
+            "date_of_birth": "22/03/1997",
+            "height": "1.73 m",
+            "foot": "left",
+            "club_country": "England",
+            "current_club": "Liverpool"
+        },
+        {
+            "number": 9,
+            "position": "FW",
+            "player": "Tyler Roberts",
+            "date_of_birth": "12/01/1999",
+            "height": "1.80 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Leeds United"
+        },
+        {
+            "number": 10,
+            "position": "MF",
+            "player": "Aaron Ramsey",
+            "date_of_birth": "26/12/1990",
+            "height": "1.82 m",
+            "foot": "both",
+            "club_country": "Italy",
+            "current_club": "Juventus"
+        },
+        {
+            "number": 11,
+            "position": "FW",
+            "player": "Gareth Bale (captain)",
+            "date_of_birth": "16/07/1989",
+            "height": "1.85 m",
+            "foot": "left",
+            "club_country": "Spain",
+            "current_club": "Real Madrid"
+        },
+        {
+            "number": 12,
+            "position": "GK",
+            "player": "Danny Ward",
+            "date_of_birth": "22/06/1993",
+            "height": "1.91 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Leicester City"
+        },
+        {
+            "number": 13,
+            "position": "FW",
+            "player": "Kieffer Moore",
+            "date_of_birth": "08/08/1992",
+            "height": "1.95 m",
+            "foot": "right",
+            "club_country": "Wales",
+            "current_club": "Cardiff City"
+        },
+        {
+            "number": 14,
+            "position": "DF",
+            "player": "Connor Roberts",
+            "date_of_birth": "23/09/1995",
+            "height": "1.75 m",
+            "foot": "right",
+            "club_country": "Wales",
+            "current_club": "Swansea City"
+        },
+        {
+            "number": 15,
+            "position": "MF",
+            "player": "Ethan Ampadu",
+            "date_of_birth": "14/09/2000",
+            "height": "1.82 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Chelsea"
+        },
+        {
+            "number": 16,
+            "position": "MF",
+            "player": "Joe Morrell",
+            "date_of_birth": "03/01/1997",
+            "height": "1.85 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Luton Town"
+        },
+        {
+            "number": 17,
+            "position": "DF",
+            "player": "Rhys Norrington-Davies",
+            "date_of_birth": "22/04/1999",
+            "height": "1.81 m",
+            "foot": "left",
+            "club_country": "England",
+            "current_club": "Sheffield United"
+        },
+        {
+            "number": 18,
+            "position": "MF",
+            "player": "Jonny Williams",
+            "date_of_birth": "09/10/1993",
+            "height": "1.68 m",
+            "foot": "left",
+            "club_country": "Wales",
+            "current_club": "Cardiff City"
+        },
+        {
+            "number": 19,
+            "position": "MF",
+            "player": "David Brooks",
+            "date_of_birth": "08/07/1997",
+            "height": "1.73 m",
+            "foot": "left",
+            "club_country": "England",
+            "current_club": "Bournemouth"
+        },
+        {
+            "number": 20,
+            "position": "MF",
+            "player": "Daniel James",
+            "date_of_birth": "10/11/1997",
+            "height": "1.70 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Manchester United"
+        },
+        {
+            "number": 21,
+            "position": "GK",
+            "player": "Adam Davies",
+            "date_of_birth": "17/07/1992",
+            "height": "1.85 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Stoke City"
+        },
+        {
+            "number": 22,
+            "position": "DF",
+            "player": "Chris Mepham",
+            "date_of_birth": "05/11/1997",
+            "height": "1.91 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Bournemouth"
+        },
+        {
+            "number": 23,
+            "position": "MF",
+            "player": "Dylan Levitt",
+            "date_of_birth": "17/11/2000",
+            "height": "1.80 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Manchester United"
+        },
+        {
+            "number": 24,
+            "position": "DF",
+            "player": "Ben Cabango",
+            "date_of_birth": "30/05/2000",
+            "height": "1.88 m",
+            "foot": "right",
+            "club_country": "Wales",
+            "current_club": "Swansea City"
+        },
+        {
+            "number": 25,
+            "position": "MF",
+            "player": "Rubin Colwill",
+            "date_of_birth": "27/04/2002",
+            "height": "1.69 m",
+            "foot": "-",
+            "club_country": "Wales",
+            "current_club": "Cardiff City"
+        },
+        {
+            "number": 26,
+            "position": "MF",
+            "player": "Matthew Smith",
+            "date_of_birth": "22/11/1999",
+            "height": "1.75 m",
+            "foot": "right",
+            "club_country": "England",
+            "current_club": "Manchester City"
+        },
+        {
+            "position": "Coach",
+            "player": "Rob Page",
+            "date_of_birth": "03/09/1974",
+            "height": "1.83 m",
+            "club_country": "Wales",
+            "current_club": "<b>WALES</b>"
+        }
+    ]
+}
