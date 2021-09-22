@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import './fonts/font.css';
+import './flags/flag-icon.css';
 
 import { Container } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -13,13 +14,14 @@ import { AgGridColumn, AgGridReact } from 'ag-grid-react';
 import 'ag-grid-community/dist/styles/ag-grid.css';
 import 'ag-grid-community/dist/styles/ag-theme-alpine.css';
 
+
 function App() {
   const [players, setPlayers] = useState([]);
-  const [teamName, setTeamName] = useState('EURO 2020 SQUADS');
+  const [teamName, setTeamName] = useState('UEFA Champions League 2021/22');
   const [teamLogo, setTeamLogo] = useState('default');
   const [teamBackground, setTeamBackground] = useState('default');
 
-  const navbar = { padding: 0, backgroundColor: '#ffae42' }
+  const navbar = { padding: 0, backgroundColor: '#0E1E5B' }
 
   const centerAlign = { textAlign: 'center' }
   const leftAlign   = { textAlign: 'left' }
@@ -36,8 +38,8 @@ function App() {
   };
   const getEvent = (event) => {
     setTeamName(event.target.value);
-    setTeamLogo(event.target.value);
-    setTeamBackground(event.target.value);
+    setTeamLogo(event.target.value.replace(" ",""));
+    setTeamBackground(event.target.value.replace(" ",""));
   } 
 
   const countryCellRenderer = (params) => {
@@ -46,6 +48,7 @@ function App() {
     return flagImage + "&nbsp;&nbsp;&nbsp;" + params.data.current_club;
   }
 
+  //Calucate Age
   const ageCalculator = (params) => {
     var today = new Date();
     var birthDate = new Date(params.data.date_of_birth.replace(/(\d{2})[-/](\d{2})[-/](\d+)/, "$2/$1/$3"));
@@ -58,6 +61,7 @@ function App() {
     return params.data.date_of_birth + " (" + age + ")";
   }
 
+  //Sort Age
   const monthToComparableNumber = (date) => { 
     var dayNumber = date.substring(0, 2);
     var monthNumber = date.substring(3, 5);
@@ -85,7 +89,7 @@ function App() {
       {/* Navigation bar */}
       <Navbar style={navbar} variant="dark" fixed="top"> 
         <Container>
-          <Navbar.Brand className="specialFont" style={{ fontSize:'30px' }}>EURO 2020</Navbar.Brand>
+          <Navbar.Brand className="specialFont" style={{ fontSize:'25px' }}>CHAMPIONS LEAGUE 2021/22</Navbar.Brand>
 
           <MyButton click={getInfo} />
 
@@ -93,7 +97,7 @@ function App() {
       </Navbar>
 
       {/* Main body */}
-      <Container style={{maxWidth: '80%'}}>
+      <Container style={{maxWidth: '70%'}}>
 
         {/* Jumbotron */}
         <MyJumbotron 
@@ -109,13 +113,13 @@ function App() {
             animateRows={true}
           >
               <AgGridColumn headerName="Number"               sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="number"                width={140}></AgGridColumn>
-              <AgGridColumn headerName="Player"               sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="player"                width={345}></AgGridColumn>
+              <AgGridColumn headerName="Player"               sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="player"                width={300}></AgGridColumn>
               <AgGridColumn headerName="Position"             sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="position"              width={140}></AgGridColumn>
               <AgGridColumn headerName="Date of birth (Age)"  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="date_of_birth"         width={230}
                   valueGetter={ageCalculator}   comparator={ageComparator}></AgGridColumn>
               <AgGridColumn headerName="Height"               sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="height"                width={160}></AgGridColumn>
               <AgGridColumn headerName="Foot"                 sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="foot"                  width={140}></AgGridColumn>
-              <AgGridColumn headerName="Current Club | Coach Nationality"         sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="club_country&current_club"  width={335} 
+              <AgGridColumn headerName="Nationality"         sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="club_country&current_club"  width={190} 
                   cellRenderer={countryCellRenderer}></AgGridColumn>
           </AgGridReact>
         </div>

@@ -1,6 +1,6 @@
 {
-  "name": "euro-squads-react",
-  "proxy": "http://localhost:3000/euro-squads-react",
+  "name": "ucl-squads-react",
+  "proxy": "http://localhost:3000/ucl-squads-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
