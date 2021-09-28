@@ -11,7 +11,7 @@ function MyJumbotron(props) {
     const JumbotronStyle = {
         margin: 'auto', 
         minHeight: '480px',
-        paddingTop: 160, 
+        paddingTop: 150, 
         backgroundImage: props.background,
         backgroundPosition: 'center center',
         backgroundColor: 'white',

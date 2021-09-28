@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "2",
+            "player": "Kyle Walker",
+            "position": "DF",
+            "date_of_birth": "28/05/1990",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "3",
+            "player": "Rúben Dias",
+            "position": "DF",
+            "date_of_birth": "14/05/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "5",
+            "player": "John Stones",
+            "position": "DF",
+            "date_of_birth": "28/05/1994",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "6",
+            "player": "Nathan Aké",
+            "position": "DF",
+            "date_of_birth": "18/02/1995",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "7",
+            "player": "Raheem Sterling",
+            "position": "FW",
+            "date_of_birth": "08/12/1994",
+            "height": "1.70 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "8",
+            "player": "İlkay Gündoğan",
+            "position": "MF",
+            "date_of_birth": "24/10/1990",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "9",
+            "player": "Gabriel Jesus",
+            "position": "FW",
+            "date_of_birth": "03/04/1997",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "10",
+            "player": "Jack Grealish",
+            "position": "MF",
+            "date_of_birth": "10/09/1995",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "11",
+            "player": "Oleksandr Zinchenko",
+            "position": "DF",
+            "date_of_birth": "15/12/1996",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "13",
+            "player": "Zack Steffen",
+            "position": "GK",
+            "date_of_birth": "02/04/1995",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "14",
+            "player": "Aymeric Laporte",
+            "position": "DF",
+            "date_of_birth": "27/05/1994",
+            "height": "1.89 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "16",
+            "player": "Rodri",
+            "position": "MF",
+            "date_of_birth": "22/06/1996",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "17",
+            "player": "Kevin De Bruyne",
+            "position": "MF",
+            "date_of_birth": "28/06/1991",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "20",
+            "player": "Bernando Silva",
+            "position": "MF",
+            "date_of_birth": "10/08/1994",
+            "height": "1.73 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "21",
+            "player": "Ferran Torres",
+            "position": "FW",
+            "date_of_birth": "29/02/2000",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "25",
+            "player": "Fernandinho (captain)",
+            "position": "MF",
+            "date_of_birth": "04/05/1985",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "26",
+            "player": "Riyah Mahrez",
+            "position": "MF",
+            "date_of_birth": "21/02/1991",
+            "height": "1.79 m",
+            "foot": "left",
+            "country_code": "dz",
+            "nationality": "Algerian"
+        },
+        {
+            "number": "27",
+            "player": "João Cancelo",
+            "position": "DF",
+            "date_of_birth": "27/05/1994",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "31",
+            "player": "Ederson",
+            "position": "GK",
+            "date_of_birth": "17/08/1993",
+            "height": "1.88 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "33",
+            "player": "Scott Carson",
+            "position": "GK",
+            "date_of_birth": "03/09/1985",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "47",
+            "player": "Phil Foden",
+            "position": "MF",
+            "date_of_birth": "28/05/2000",
+            "height": "1.71 m",
+            "foot": "left",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "48",
+            "player": "Liam Delap",
+            "position": "FW",
+            "date_of_birth": "08/02/2003",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "79",
+            "player": "Luke Mbete",
+            "position": "DF",
+            "date_of_birth": "18/09/2003",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "80",
+            "player": "Cole Palmer",
+            "position": "MF",
+            "date_of_birth": "06/05/2002",
+            "height": "1.86 m",
+            "foot": "left",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "87",
+            "player": "James McAtee",
+            "position": "MF",
+            "date_of_birth": "18/10/2002",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "player": "Pep Guardiola",
+            "position": "Coach",
+            "date_of_birth": "18/01/1971",
+            "height": "1.80 m",
+            "foot": "both",
+            "country_code": "es",
+            "nationality": "Spanish"
+        }
+    ]
+}

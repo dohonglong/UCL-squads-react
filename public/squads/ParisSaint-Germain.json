@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Keylor Navas",
+            "position": "GK",
+            "date_of_birth": "15/12/1986",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "cr",
+            "nationality": "Costa Rican"
+        },
+        {
+            "number": "2",
+            "player": "Achraf Hakimi",
+            "position": "DF",
+            "date_of_birth": "14/11/1998",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "3",
+            "player": "Presnel Kimpembe",
+            "position": "DF",
+            "date_of_birth": "13/08/1995",
+            "height": "1.89 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "4",
+            "player": "Sergio Ramos",
+            "position": "DF",
+            "date_of_birth": "30/03/1986",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "5",
+            "player": "Marquinhos (captain)",
+            "position": "DF",
+            "date_of_birth": "14/05/1994",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "6",
+            "player": "Marco Verratti",
+            "position": "MF",
+            "date_of_birth": "05/11/1992",
+            "height": "1.65 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "7",
+            "player": "Kylian Mbappé",
+            "position": "FW",
+            "date_of_birth": "20/12/1998",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "8",
+            "player": "Leandro Paredes",
+            "position": "MF",
+            "date_of_birth": "29/06/1994",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "9",
+            "player": "Mauro Icardi",
+            "position": "FW",
+            "date_of_birth": "19/02/1993",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "10",
+            "player": "Neymar",
+            "position": "FW",
+            "date_of_birth": "05/02/1992",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "11",
+            "player": "Ángel Di María",
+            "position": "FW",
+            "date_of_birth": "14/02/1988",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "15",
+            "player": "Danilo Pereira",
+            "position": "MF",
+            "date_of_birth": "09/09/1991",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "16",
+            "player": "Alexandre Letellier",
+            "position": "GK",
+            "date_of_birth": "11/12/1990",
+            "height": "1.93 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "17",
+            "player": "Colin Dagba",
+            "position": "DF",
+            "date_of_birth": "06/09/1998",
+            "height": "1.70 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "18",
+            "player": "Georginio Wijnaldum",
+            "position": "MF",
+            "date_of_birth": "11/11/1990",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "20",
+            "player": "Layvin Kurzawa",
+            "position": "DF",
+            "date_of_birth": "04/09/1992",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "21",
+            "player": "Ander Herrera",
+            "position": "MF",
+            "date_of_birth": "14/08/1989",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "22",
+            "player": "Abdou Diallo",
+            "position": "DF",
+            "date_of_birth": "04/05/1996",
+            "height": "1.87 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "23",
+            "player": "Julian Draxler",
+            "position": "FW",
+            "date_of_birth": "20/09/1993",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "24",
+            "player": "Thilo Kehrer",
+            "position": "DF",
+            "date_of_birth": "21/09/1996",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "25",
+            "player": "Nuno Mendes",
+            "position": "DF",
+            "date_of_birth": "19/06/2002",
+            "height": "1.76 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "27",
+            "player": "Idrissa Gueye",
+            "position": "MF",
+            "date_of_birth": "26/09/1989",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "sn",
+            "nationality": "Senegalese"
+        },
+        {
+            "number": "28",
+            "player": "Junior Dina Ebimbe",
+            "position": "MF",
+            "date_of_birth": "21/11/2000",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "30",
+            "player": "Lionel Messi",
+            "position": "FW",
+            "date_of_birth": "24/06/1987",
+            "height": "1.69 m",
+            "foot": "left",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "50",
+            "player": "Gianluigi Donnarumma",
+            "position": "GK",
+            "date_of_birth": "25/02/1999",
+            "height": "1.96 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "player": "Mauricio Pochettino",
+            "position": "Coach",
+            "date_of_birth": "02/03/1972",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        }
+    ]
+}

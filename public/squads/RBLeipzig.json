@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Péter Gulácsi (captain)",
+            "position": "GK",
+            "date_of_birth": "06/05/1990",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "hu",
+            "nationality": "Hungarian"
+        },
+        {
+            "number": "2",
+            "player": "Mohamed Simakan",
+            "position": "DF",
+            "date_of_birth": "03/05/2000",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "3",
+            "player": "Angeliño",
+            "position": "DF",
+            "date_of_birth": "04/01/1997",
+            "height": "1.71 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "4",
+            "player": "Willi Orban",
+            "position": "DF",
+            "date_of_birth": "03/11/1992",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "hu",
+            "nationality": "Hungarian"
+        },
+        {
+            "number": "8",
+            "player": "Amadou Haidara",
+            "position": "MF",
+            "date_of_birth": "31/01/1998",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "ml",
+            "nationality": "Malian"
+        },
+        {
+            "number": "9",
+            "player": "Yussuf Poulsen",
+            "position": "FW",
+            "date_of_birth": "15/06/1994",
+            "height": "1.92 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "10",
+            "player": "Emil Forsberg",
+            "position": "FW",
+            "date_of_birth": "23/10/1991",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "14",
+            "player": "Tyler Adams",
+            "position": "MF",
+            "date_of_birth": "14/02/1999",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "16",
+            "player": "Lukas Klostermann",
+            "position": "DF",
+            "date_of_birth": "03/06/1996",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "17",
+            "player": "Dominik Szoboszlai",
+            "position": "MF",
+            "date_of_birth": "25/10/2000",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "hu",
+            "nationality": "Hungarian"
+        },
+        {
+            "number": "18",
+            "player": "Christopher Nkunku",
+            "position": "MF",
+            "date_of_birth": "14/11/1997",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "21",
+            "player": "Brian Brobbey",
+            "position": "FW",
+            "date_of_birth": "01/02/2002",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "22",
+            "player": "Nordi Mukiele",
+            "position": "DF",
+            "date_of_birth": "01/11/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "23",
+            "player": "Marcel Halstenberg",
+            "position": "DF",
+            "date_of_birth": "27/09/1991",
+            "height": "1.88 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "25",
+            "player": "Dani Olmo",
+            "position": "FW",
+            "date_of_birth": "07/05/1998",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "26",
+            "player": "Ilaix Moriba",
+            "position": "MF",
+            "date_of_birth": "19/01/2003",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "gn",
+            "nationality": "Guinean"
+        },
+        {
+            "number": "27",
+            "player": "Konrad Laimer",
+            "position": "MF",
+            "date_of_birth": "27/05/1997",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "31",
+            "player": "Josep Martínez",
+            "position": "GK",
+            "date_of_birth": "27/05/1998",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "32",
+            "player": "Joško Gvardiol",
+            "position": "DF",
+            "date_of_birth": "23/01/2002",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "33",
+            "player": "André Silva",
+            "position": "FW",
+            "date_of_birth": "06/11/1995",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "37",
+            "player": "Sidney Raebiger",
+            "position": "MF",
+            "date_of_birth": "17/04/2005",
+            "height": "1.76 m",
+            "foot": "both",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "39",
+            "player": "Benjamin Henrichs",
+            "position": "DF",
+            "date_of_birth": "23/02/1997",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "44",
+            "player": "Kevin Kampl",
+            "position": "MF",
+            "date_of_birth": "09/10/1990",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "si",
+            "nationality": "Slovenian"
+        },
+        {
+            "number": "46",
+            "player": "Ben Klefisch",
+            "position": "MF",
+            "date_of_birth": "02/03/2003",
+            "height": "1.86 m",
+            "foot": "both",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "47",
+            "player": "Joscha Wosz",
+            "position": "MF",
+            "date_of_birth": "20/07/2002",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "player": "Jesse Marsch",
+            "position": "Coach",
+            "date_of_birth": "08/11/1973",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        }
+    ]
+}

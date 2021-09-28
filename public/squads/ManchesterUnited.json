@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "David de Gea",
+            "position": "GK",
+            "date_of_birth": "07/11/1990",
+            "height": "1.92 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "2",
+            "player": "Victor Lindelöf",
+            "position": "DF",
+            "date_of_birth": "17/07/1994",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "3",
+            "player": "Eric Bailly",
+            "position": "DF",
+            "date_of_birth": "12/04/1994",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "ci",
+            "nationality": "Ivorian"
+        },
+        {
+            "number": "5",
+            "player": "Harry Maguire (captain)",
+            "position": "DF",
+            "date_of_birth": "05/03/1993",
+            "height": "1.94 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "6",
+            "player": "Paul Pogba",
+            "position": "MF",
+            "date_of_birth": "15/03/1993",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "7",
+            "player": "Cristiano Ronaldo",
+            "position": "FW",
+            "date_of_birth": "05/02/1985",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "8",
+            "player": "Juan Mata",
+            "position": "MF",
+            "date_of_birth": "28/04/1988",
+            "height": "1.70 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "9",
+            "player": "Anthony Martial",
+            "position": "FW",
+            "date_of_birth": "05/12/1995",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "10",
+            "player": "Marcus Rashford",
+            "position": "FW",
+            "date_of_birth": "31/10/1997",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "14",
+            "player": "Jesse Lingard",
+            "position": "MF",
+            "date_of_birth": "15/12/1992",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "16",
+            "player": "Amad Diallo",
+            "position": "MF",
+            "date_of_birth": "11/07/2002",
+            "height": "1.73 m",
+            "foot": "left",
+            "country_code": "ci",
+            "nationality": "Ivorian"
+        },
+        {
+            "number": "17",
+            "player": "Fred",
+            "position": "MF",
+            "date_of_birth": "05/03/1993",
+            "height": "1.69 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "18",
+            "player": "Bruno Fernandes",
+            "position": "MF",
+            "date_of_birth": "08/09/1994",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "19",
+            "player": "Raphaël Varane",
+            "position": "DF",
+            "date_of_birth": "25/04/1993",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "20",
+            "player": "Diogo Dalot",
+            "position": "DF",
+            "date_of_birth": "18/03/1999",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "21",
+            "player": "Edinson Cavani",
+            "position": "FW",
+            "date_of_birth": "14/02/1987",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "22",
+            "player": "Tom Heaton",
+            "position": "GK",
+            "date_of_birth": "15/04/1986",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "23",
+            "player": "Luke Shaw",
+            "position": "DF",
+            "date_of_birth": "12/07/1995",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "25",
+            "player": "Jadon Sancho",
+            "position": "MF",
+            "date_of_birth": "25/03/2000",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "26",
+            "player": "Dean Henderson",
+            "position": "GK",
+            "date_of_birth": "12/03/1997",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "27",
+            "player": "Alex Telles",
+            "position": "DF",
+            "date_of_birth": "15/12/1992",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "29",
+            "player": "Aaron Wan-Bissaka",
+            "position": "DF",
+            "date_of_birth": "26/11/1997",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "31",
+            "player": "Nemanja Matić",
+            "position": "MF",
+            "date_of_birth": "01/08/1988",
+            "height": "1.94 m",
+            "foot": "left",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "34",
+            "player": "Donny van de Beek",
+            "position": "MF",
+            "date_of_birth": "18/04/1997",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "39",
+            "player": "Scott McTominay",
+            "position": "MF",
+            "date_of_birth": "08/12/1996",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "gb-sct",
+            "nationality": "Scottish"
+        },
+        {
+            "player": "Ole Gunnar Solskjær",
+            "position": "Coach",
+            "date_of_birth": "26/02/1973",
+            "height": "1.78 m",
+            "foot": "both",
+            "country_code": "no",
+            "nationality": "Norwegian"
+        }
+    ]
+}

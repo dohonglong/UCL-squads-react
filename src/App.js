@@ -32,7 +32,7 @@ function App() {
   }
   
   const getSquad = (event) => {
-    fetch(`./squads/${event.target.value}.json`)
+    fetch(`./squads/${event.target.value.replace(" ","")}.json`)
     .then(response => response.json())
     .then(resData => setPlayers(resData.squad))
   };
@@ -41,12 +41,6 @@ function App() {
     setTeamLogo(event.target.value.replace(" ",""));
     setTeamBackground(event.target.value.replace(" ",""));
   } 
-
-  const countryCellRenderer = (params) => {
-    var url = 'https://icons.iconarchive.com/icons/gosquared/flag/32/' + params.data.club_country + '-flat-icon.png';
-    var flagImage = '<img className="flag" src="' + url + '">';
-    return flagImage + "&nbsp;&nbsp;&nbsp;" + params.data.current_club;
-  }
 
   //Calucate Age
   const ageCalculator = (params) => {
@@ -60,7 +54,6 @@ function App() {
     }
     return params.data.date_of_birth + " (" + age + ")";
   }
-
   //Sort Age
   const monthToComparableNumber = (date) => { 
     var dayNumber = date.substring(0, 2);
@@ -83,7 +76,17 @@ function App() {
     }
     return date1Number - date2Number;
   }
-  
+
+  //Render country flag in nationality
+  const countryCellRenderer = (params) => {
+    var flagImage = '<span class="flag-icon flag-icon-' + params.data.country_code + '"></span>';
+    return flagImage + '&nbsp;&nbsp;&nbsp;' + params.data.nationality;
+  }
+  //Filter nationality
+  var nationalityFilter = (params) => {
+    return params.data.nationality;
+  };
+
   return ( 
     <div className="App">
       {/* Navigation bar */}
@@ -107,20 +110,20 @@ function App() {
         />
 
         {/* Main table */}
-        <div className="ag-theme-alpine" style={{ width: "100%", height: 1202, margin: 'auto'}}>
+        <div className="ag-theme-alpine" style={{ width: "100%", height: 1160, margin: 'auto'}}>
           <AgGridReact 
             rowData={players} 
             animateRows={true}
           >
-              <AgGridColumn headerName="Number"               sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="number"                width={140}></AgGridColumn>
-              <AgGridColumn headerName="Player"               sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="player"                width={300}></AgGridColumn>
+              <AgGridColumn headerName="No."                  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="number"                width={110}></AgGridColumn>
+              <AgGridColumn headerName="Player"               sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="player"                width={290}></AgGridColumn>
               <AgGridColumn headerName="Position"             sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="position"              width={140}></AgGridColumn>
               <AgGridColumn headerName="Date of birth (Age)"  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="date_of_birth"         width={230}
                   valueGetter={ageCalculator}   comparator={ageComparator}></AgGridColumn>
               <AgGridColumn headerName="Height"               sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="height"                width={160}></AgGridColumn>
               <AgGridColumn headerName="Foot"                 sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="foot"                  width={140}></AgGridColumn>
-              <AgGridColumn headerName="Nationality"         sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="club_country&current_club"  width={190} 
-                  cellRenderer={countryCellRenderer}></AgGridColumn>
+              <AgGridColumn headerName="Nationality"                      filter={true} resizable={true}  cellStyle={leftAlign}   field="country_code&nationality"  width={230} 
+                  cellRenderer={countryCellRenderer} valueGetter={nationalityFilter}></AgGridColumn>
           </AgGridReact>
         </div>
         
