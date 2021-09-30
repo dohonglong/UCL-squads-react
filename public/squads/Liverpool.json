@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Alisson",
+            "position": "GK",
+            "date_of_birth": "02/10/1992",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "3",
+            "player": "Fabinho",
+            "position": "MF",
+            "date_of_birth": "23/10/1993",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "4",
+            "player": "Virgil van Dijk",
+            "position": "DF",
+            "date_of_birth": "08/07/1991",
+            "height": "1.93 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "5",
+            "player": "Ibrahima Konaté",
+            "position": "DF",
+            "date_of_birth": "25/05/1999",
+            "height": "1.94 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "6",
+            "player": "Thiago",
+            "position": "MF",
+            "date_of_birth": "11/04/1991",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "7",
+            "player": "James Milner",
+            "position": "MF",
+            "date_of_birth": "04/01/1986",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "8",
+            "player": "Naby Keïta",
+            "position": "MF",
+            "date_of_birth": "10/02/1995",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "gn",
+            "nationality": "Guinean"
+        },
+        {
+            "number": "9",
+            "player": "Roberto Firmino",
+            "position": "MF",
+            "date_of_birth": "02/10/1991",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "10",
+            "player": "Sadio Mané",
+            "position": "MF",
+            "date_of_birth": "10/04/1992",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "sn",
+            "nationality": "Senegalese"
+        },
+        {
+            "number": "11",
+            "player": "Mohamed Salah",
+            "position": "FW",
+            "date_of_birth": "15/06/1992",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "eg",
+            "nationality": "Egyptian"
+        },
+        {
+            "number": "12",
+            "player": "Joe Gomez",
+            "position": "DF",
+            "date_of_birth": "23/05/1997",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "13",
+            "player": "Adrián",
+            "position": "GK",
+            "date_of_birth": "03/01/1987",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "14",
+            "player": "Jordan Henderson (captain)",
+            "position": "MF",
+            "date_of_birth": "17/06/1990",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "15",
+            "player": "Alex Oxlade-Chamberlain",
+            "position": "MF",
+            "date_of_birth": "15/08/1993",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "17",
+            "player": "Curtis Jones",
+            "position": "MF",
+            "date_of_birth": "30/01/2001",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "18",
+            "player": "Takumi Minamino",
+            "position": "FW",
+            "date_of_birth": "16/01/1995",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "jp",
+            "nationality": "Japanese"
+        },
+        {
+            "number": "20",
+            "player": "Diogo Jota",
+            "position": "FW",
+            "date_of_birth": "04/12/1996",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "21",
+            "player": "Konstantinos Tsimikas",
+            "position": "DF",
+            "date_of_birth": "12/05/1996",
+            "height": "1.79 m",
+            "foot": "left",
+            "country_code": "gr",
+            "nationality": "Greek"
+        },
+        {
+            "number": "26",
+            "player": "Andrew Robertson",
+            "position": "DF",
+            "date_of_birth": "11/03/1994",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "gb-sct",
+            "nationality": "Scottish"
+        },
+        {
+            "number": "27",
+            "player": "Divock Origi",
+            "position": "FW",
+            "date_of_birth": "18/04/1995",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "32",
+            "player": "Joel Matip",
+            "position": "DF",
+            "date_of_birth": "08/08/1991",
+            "height": "1.95 m",
+            "foot": "right",
+            "country_code": "cm",
+            "nationality": "Cameroonian"
+        },
+        {
+            "number": "47",
+            "player": "Nathaniel Phillips",
+            "position": "DF",
+            "date_of_birth": "21/03/1997",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "62",
+            "player": "Caoimhin Kelleher",
+            "position": "GK",
+            "date_of_birth": "23/11/1998",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "ie",
+            "nationality": "Irish"
+        },
+        {
+            "number": "66",
+            "player": "Trent Alexander-Arnold",
+            "position": "DF",
+            "date_of_birth": "07/10/1998",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "67",
+            "player": "Harvey Elliott",
+            "position": "MF",
+            "date_of_birth": "04/04/2003",
+            "height": "1.70 m",
+            "foot": "left",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "player": "Jurgen Klopp",
+            "position": "Coach",
+            "date_of_birth": "16/06/1967",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        }
+    ]
+}

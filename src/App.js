@@ -32,14 +32,16 @@ function App() {
   }
   
   const getSquad = (event) => {
-    fetch(`./squads/${event.target.value.replace(" ","")}.json`)
+    const team = event.target.value.replace(/[^a-zA-Z_0-9-]/g,"").replace(" ","");
+    fetch(`./squads/${team}.json`)
     .then(response => response.json())
     .then(resData => setPlayers(resData.squad))
   };
   const getEvent = (event) => {
+    const team = event.target.value.replace(/[^a-zA-Z_0-9-]/g,"").replace(" ","");
     setTeamName(event.target.value);
-    setTeamLogo(event.target.value.replace(" ",""));
-    setTeamBackground(event.target.value.replace(" ",""));
+    setTeamLogo(team);
+    setTeamBackground(team);
   } 
 
   //Calucate Age

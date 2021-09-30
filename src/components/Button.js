@@ -12,16 +12,22 @@ function MyButton(props) {
                 <Dropdown.Toggle variant="success" size="lg" style={{ fontSize:'22px' , fontWeight: "bold" }}>Team&nbsp;</Dropdown.Toggle>
                 <Dropdown.Menu style={{ backgroundColor: '#E0E0E0' }}> 
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group A</h5>
-                        <Dropdown.Item as="button" value="Manchester City"      onClick={props.click}><span className="flag-icon flag-icon-gb-eng"> </span>&nbsp;&nbsp;Man City</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Manchester City"      onClick={props.click}><span className="flag-icon flag-icon-gb-eng"> </span>&nbsp;&nbsp;Mancheter City</Dropdown.Item>
                         <Dropdown.Item as="button" value="Paris Saint-Germain"  onClick={props.click}><span className="flag-icon flag-icon-fr">     </span>&nbsp;&nbsp;Paris SG</Dropdown.Item>
                         <Dropdown.Item as="button" value="RB Leipzig"           onClick={props.click}><span className="flag-icon flag-icon-de">     </span>&nbsp;&nbsp;RB Leipzig</Dropdown.Item>
                         <Dropdown.Item as="button" value="Club Brugge"          onClick={props.click}><span className="flag-icon flag-icon-be">     </span>&nbsp;&nbsp;Club Brugge</Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group B</h5>
-                        
+                        <Dropdown.Item as="button" value="Atlético Madrid"      onClick={props.click}><span className="flag-icon flag-icon-es">     </span>&nbsp;&nbsp;Atlético Madrid</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Liverpool"            onClick={props.click}><span className="flag-icon flag-icon-gb-eng"> </span>&nbsp;&nbsp;Liverpool</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Porto"                onClick={props.click}><span className="flag-icon flag-icon-pt">     </span>&nbsp;&nbsp;Porto</Dropdown.Item>
+                        <Dropdown.Item as="button" value="AC Milan"             onClick={props.click}><span className="flag-icon flag-icon-it">     </span>&nbsp;&nbsp;AC Milan</Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group C</h5>
-                    
+                        <Dropdown.Item as="button" value="Sporting CP"          onClick={props.click}><span className="flag-icon flag-icon-pt">     </span>&nbsp;&nbsp;Sporting CP</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Borussia Dortmund"    onClick={props.click}><span className="flag-icon flag-icon-de">     </span>&nbsp;&nbsp;Dortmund</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Ajax"                 onClick={props.click}><span className="flag-icon flag-icon-nl">     </span>&nbsp;&nbsp;Ajax</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Beşiktaş"             onClick={props.click}><span className="flag-icon flag-icon-tr">     </span>&nbsp;&nbsp;Beşiktaş</Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group D</h5>
                         
@@ -30,7 +36,7 @@ function MyButton(props) {
                        
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group F</h5>
-                        <Dropdown.Item as="button" value="Manchester United"    onClick={props.click}><span className="flag-icon flag-icon-gb-eng"> </span>&nbsp;&nbsp;Man Utd</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Manchester United"    onClick={props.click}><span className="flag-icon flag-icon-gb-eng"> </span>&nbsp;&nbsp;Manchester Utd</Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group G</h5>
 

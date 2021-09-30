@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Benjamin Lecomte",
+            "position": "GK",
+            "date_of_birth": "26/04/1991",
+            "height": "1.86 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "2",
+            "player": "José María Giménez",
+            "position": "DF",
+            "date_of_birth": "20/01/1995",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "4",
+            "player": "Geoffrey Kondogbia",
+            "position": "MF",
+            "date_of_birth": "15/02/1993",
+            "height": "1.88 m",
+            "foot": "left",
+            "country_code": "cf",
+            "nationality": "Central African"
+        },
+        {
+            "number": "5",
+            "player": "Rodrigo de Paul",
+            "position": "MF",
+            "date_of_birth": "24/05/1994",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "6",
+            "player": "Koke (captain)",
+            "position": "MF",
+            "date_of_birth": "08/01/1992",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "7",
+            "player": "João Félix",
+            "position": "FW",
+            "date_of_birth": "10/11/1999",
+            "height": "1.80 m",
+            "foot": "both",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "8",
+            "player": "Antoine Griezmann",
+            "position": "FW",
+            "date_of_birth": "21/03/1991",
+            "height": "1.76 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "9",
+            "player": "Luis Suárez",
+            "position": "FW",
+            "date_of_birth": "24/01/1987",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "10",
+            "player": "Ángel Correa",
+            "position": "FW",
+            "date_of_birth": "09/03/1995",
+            "height": "1.71 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "11",
+            "player": "Thomas Lemar",
+            "position": "MF",
+            "date_of_birth": "12/11/1995",
+            "height": "1.71 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "12",
+            "player": "Renan Lodi",
+            "position": "DF",
+            "date_of_birth": "08/04/1998",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "13",
+            "player": "Jan Oblak",
+            "position": "GK",
+            "date_of_birth": "07/01/1993",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "si",
+            "nationality": "Slovenian"
+        },
+        {
+            "number": "14",
+            "player": "Marcos Llorente",
+            "position": "MF",
+            "date_of_birth": "30/01/1995",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "15",
+            "player": "Stefan Savić",
+            "position": "DF",
+            "date_of_birth": "08/01/1991",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "me",
+            "nationality": "Montenegrin"
+        },
+        {
+            "number": "16",
+            "player": "Héctor Herrera",
+            "position": "MF",
+            "date_of_birth": "19/04/1990",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "mx",
+            "nationality": "Mexican"
+        },
+        {
+            "number": "18",
+            "player": "Felipe",
+            "position": "DF",
+            "date_of_birth": "16/05/1989",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "19",
+            "player": "Matheus Cunha",
+            "position": "FW",
+            "date_of_birth": "27/05/1992",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "21",
+            "player": "Yannick Carrasco",
+            "position": "FW",
+            "date_of_birth": "04/09/1993",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "22",
+            "player": "Mario Hermoso",
+            "position": "DF",
+            "date_of_birth": "18/06/1995",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "23",
+            "player": "Kieran Trippier",
+            "position": "DF",
+            "date_of_birth": "19/09/1990",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "24",
+            "player": "Sime Vrsaljko",
+            "position": "DF",
+            "date_of_birth": "10/01/1992",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "28",
+            "player": "Alberto Moreno",
+            "position": "MF",
+            "date_of_birth": "19/04/2002",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "31",
+            "player": "Christian",
+            "position": "GK",
+            "date_of_birth": "18/05/2000",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "37",
+            "player": "Sergio Camus",
+            "position": "DF",
+            "date_of_birth": "19/04/1997",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "38",
+            "player": " Francisco Miguel González Vergaja",
+            "position": "DF",
+            "date_of_birth": "13/08/1998",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "player": "Diego Simeone",
+            "position": "Coach",
+            "date_of_birth": "28/04/1970",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Agustín Marchesín",
+            "position": "GK",
+            "date_of_birth": "16/03/1988",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "2",
+            "player": "Fábio Cardoso",
+            "position": "DF",
+            "date_of_birth": "19/04/1994",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "3",
+            "player": "Pepe (captain)",
+            "position": "DF",
+            "date_of_birth": "26/02/1983",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "5",
+            "player": "Iván Marcano",
+            "position": "DF",
+            "date_of_birth": "23/06/1987",
+            "height": "1.89 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "7",
+            "player": "Luis Díaz",
+            "position": "FW",
+            "date_of_birth": "13/01/1997",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "co",
+            "nationality": "Colombian"
+        },
+        {
+            "number": "8",
+            "player": "Mateus Uribe",
+            "position": "MF",
+            "date_of_birth": "21/03/1991",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "co",
+            "nationality": "Colombian"
+        },
+        {
+            "number": "9",
+            "player": "Mehdi Taremi",
+            "position": "FW",
+            "date_of_birth": "18/07/1992",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "ir",
+            "nationality": "Iranian"
+        },
+        {
+            "number": "10",
+            "player": "Francisco Conceição",
+            "position": "FW",
+            "date_of_birth": "14/12/2002",
+            "height": "1.70 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "11",
+            "player": "Pepê",
+            "position": "FW",
+            "date_of_birth": "24/02/1997",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "12",
+            "player": "Zaidu Sanusi",
+            "position": "DF",
+            "date_of_birth": "13/06/1997",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "ng",
+            "nationality": "Nigerian"
+        },
+        {
+            "number": "14",
+            "player": "Cláudio Ramos",
+            "position": "GK",
+            "date_of_birth": "16/11/1991",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "16",
+            "player": "Marko Grujić",
+            "position": "MF",
+            "date_of_birth": "13/04/1996",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "17",
+            "player": "Jesús Corona",
+            "position": "FW",
+            "date_of_birth": "06/01/1993",
+            "height": "1.73 m",
+            "foot": "both",
+            "country_code": "mx",
+            "nationality": "Mexican"
+        },
+        {
+            "number": "18",
+            "player": "Wilson Manafá",
+            "position": "DF",
+            "date_of_birth": "23/07/1994",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "19",
+            "player": "Chancel Mbemba",
+            "position": "DF",
+            "date_of_birth": "08/08/1994",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "cd",
+            "nationality": "Congolese"
+        },
+        {
+            "number": "20",
+            "player": "Vitinha",
+            "position": "MF",
+            "date_of_birth": "13/02/2000",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "22",
+            "player": "Wendell",
+            "position": "DF",
+            "date_of_birth": "20/07/1993",
+            "height": "1.76 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "25",
+            "player": "Otávio",
+            "position": "MF",
+            "date_of_birth": "09/02/1995",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "27",
+            "player": "Sérgio Oliveira",
+            "position": "MF",
+            "date_of_birth": "02/06/1992",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "28",
+            "player": "Bruno Costa",
+            "position": "MF",
+            "date_of_birth": "19/04/1997",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "29",
+            "player": "Toni Martínez",
+            "position": "FW",
+            "date_of_birth": "30/06/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "30",
+            "player": "Evanilson",
+            "position": "FW",
+            "date_of_birth": "06/10/1999",
+            "height": "1.83 m",
+            "foot": "both",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "31",
+            "player": "Nanu",
+            "position": "DF",
+            "date_of_birth": "17/05/1994",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "gw",
+            "nationality": "Bissau-Guinean"
+        },
+        {
+            "number": "50",
+            "player": "Fábio Vieira",
+            "position": "MF",
+            "date_of_birth": "30/05/2000",
+            "height": "1.70 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "99",
+            "player": "Diogo Costa",
+            "position": "GK",
+            "date_of_birth": "19/09/1999",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "player": "Sérgio Conceição",
+            "position": "Coach",
+            "date_of_birth": "15/11/1974",
+            "height": "1.76 m",
+            "foot": "both",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        }
+    ]
+}

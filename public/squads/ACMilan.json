@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Ciprian Tătărușanu",
+            "position": "GK",
+            "date_of_birth": "09/02/1986",
+            "height": "1.98 m",
+            "foot": "right",
+            "country_code": "ro",
+            "nationality": "Romanian"
+        },
+        {
+            "number": "2",
+            "player": "Davide Calabria",
+            "position": "DF",
+            "date_of_birth": "06/12/1996",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "4",
+            "player": "Ismaël Bennacer",
+            "position": "MF",
+            "date_of_birth": "01/12/1997",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "dz",
+            "nationality": "Algerian"
+        },
+        {
+            "number": "5",
+            "player": "Fodé Ballo-Touré",
+            "position": "DF",
+            "date_of_birth": "03/01/1997",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "sn",
+            "nationality": "Senegalese"
+        },
+        {
+            "number": "8",
+            "player": "Sandro Tonali",
+            "position": "MF",
+            "date_of_birth": "08/05/2000",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "9",
+            "player": "Olivier Giroud",
+            "position": "FW",
+            "date_of_birth": "30/09/1986",
+            "height": "1.93 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "10",
+            "player": "Brahim Díaz",
+            "position": "MF",
+            "date_of_birth": "03/08/1999",
+            "height": "1.71 m",
+            "foot": "both",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "11",
+            "player": "Zlatan Ibrahimović",
+            "position": "FW",
+            "date_of_birth": "03/10/1981",
+            "height": "1.95 m",
+            "foot": "both",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "12",
+            "player": "Ante Rebić",
+            "position": "FW",
+            "date_of_birth": "21/09/1993",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "13",
+            "player": "Alessio Romagnoli (captain)",
+            "position": "DF",
+            "date_of_birth": "12/01/1995",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "16",
+            "player": "Mike Maignan",
+            "position": "GK",
+            "date_of_birth": "03/07/1995",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "17",
+            "player": "Rafael Leão",
+            "position": "FW",
+            "date_of_birth": "10/06/1999",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "19",
+            "player": "Theo Hernández",
+            "position": "DF",
+            "date_of_birth": "06/10/1997",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "20",
+            "player": "Pierre Kalulu",
+            "position": "DF",
+            "date_of_birth": "05/06/2000",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "23",
+            "player": "Fikayo Tomori",
+            "position": "DF",
+            "date_of_birth": "19/12/1997",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "24",
+            "player": "Simon Kjær",
+            "position": "DF",
+            "date_of_birth": "26/03/1989",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "25",
+            "player": "Alessandro Florenzi",
+            "position": "DF",
+            "date_of_birth": "11/03/1991",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "27",
+            "player": "Daniel Maldini",
+            "position": "FW",
+            "date_of_birth": "11/10/2001",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "30",
+            "player": "Junior Messias",
+            "position": "FW",
+            "date_of_birth": "13/05/1991",
+            "height": "1.79 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "33",
+            "player": "Rade Krunić",
+            "position": "MF",
+            "date_of_birth": "07/10/1993",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "ba",
+            "nationality": "Bosnian"
+        },
+        {
+            "number": "41",
+            "player": "Tiémoué Bakayoko",
+            "position": "MF",
+            "date_of_birth": "17/08/1994",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "46",
+            "player": "Matteo Gabbia",
+            "position": "DF",
+            "date_of_birth": "21/10/1999",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "56",
+            "player": "Alexis Saelemaekers",
+            "position": "MF",
+            "date_of_birth": "27/06/1999",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "77",
+            "player": "Alessandro Plizzari",
+            "position": "GK",
+            "date_of_birth": "12/03/2000",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "79",
+            "player": "Franck Kessié",
+            "position": "MF",
+            "date_of_birth": "19/12/1996",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "ci",
+            "nationality": "Ivorian"
+        },
+        {
+            "player": "Stefano Pioli",
+            "position": "Coach",
+            "date_of_birth": "20/10/1965",
+            "height": "1.83 m",
+            "foot": "-",
+            "country_code": "it",
+            "nationality": "Italian"
+        }
+    ]
+}
