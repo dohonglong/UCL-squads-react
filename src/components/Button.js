@@ -26,11 +26,14 @@ function MyButton(props) {
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group C</h5>
                         <Dropdown.Item as="button" value="Sporting CP"          onClick={props.click}><span className="flag-icon flag-icon-pt">     </span>&nbsp;&nbsp;Sporting CP</Dropdown.Item>
                         <Dropdown.Item as="button" value="Borussia Dortmund"    onClick={props.click}><span className="flag-icon flag-icon-de">     </span>&nbsp;&nbsp;Dortmund</Dropdown.Item>
-                        <Dropdown.Item as="button" value="Ajax"                 onClick={props.click}><span className="flag-icon flag-icon-nl">     </span>&nbsp;&nbsp;Ajax</Dropdown.Item>
-                        <Dropdown.Item as="button" value="Beşiktaş"             onClick={props.click}><span className="flag-icon flag-icon-tr">     </span>&nbsp;&nbsp;Beşiktaş</Dropdown.Item>
+                        <Dropdown.Item as="button" value="AFC Ajax"             onClick={props.click}><span className="flag-icon flag-icon-nl">     </span>&nbsp;&nbsp;Ajax</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Beşiktaş JK"          onClick={props.click}><span className="flag-icon flag-icon-tr">     </span>&nbsp;&nbsp;Beşiktaş</Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group D</h5>
-                        
+                        <Dropdown.Item as="button" value="Inter Milan"          onClick={props.click}><span className="flag-icon flag-icon-it">     </span>&nbsp;&nbsp;Inter Milan</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Real Madrid"          onClick={props.click}><span className="flag-icon flag-icon-es">     </span>&nbsp;&nbsp;Real Madrid</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Shakhtar Donetsk"     onClick={props.click}><span className="flag-icon flag-icon-ua">     </span>&nbsp;&nbsp;Shakhtar</Dropdown.Item>
+                        <Dropdown.Item as="button" value="Sheriff Tiraspol"     onClick={props.click}><span className="flag-icon flag-icon-md">     </span>&nbsp;&nbsp;Sheriff Tiraspol</Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group E</h5>
                        

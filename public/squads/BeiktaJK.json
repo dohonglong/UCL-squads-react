@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "2",
+            "player": "Valentin Rosier",
+            "position": "DF",
+            "date_of_birth": "19/08/1996",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "3",
+            "player": "Rıdvan Yılmaz",
+            "position": "DF",
+            "date_of_birth": "21/05/2001",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "4",
+            "player": "Francisco Montero",
+            "position": "DF",
+            "date_of_birth": "14/01/1999",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "5",
+            "player": "Souza",
+            "position": "MF",
+            "date_of_birth": "11/02/1989",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "7",
+            "player": "Georges-Kévin Nkoudou",
+            "position": "MF",
+            "date_of_birth": "13/02/1995",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "8",
+            "player": "Salih Uçan",
+            "position": "MF",
+            "date_of_birth": "06/01/1994",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "9",
+            "player": "Michy Batshuayi",
+            "position": "FW",
+            "date_of_birth": "02/10/1993",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "10",
+            "player": "Oğuzhan Özyakup",
+            "position": "MF",
+            "date_of_birth": "23/09/1992",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "11",
+            "player": "Gökhan Töre",
+            "position": "MF",
+            "date_of_birth": "20/01/1992",
+            "height": "1.76 m",
+            "foot": "left",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "12",
+            "player": "Can Bozdoğan",
+            "position": "MF",
+            "date_of_birth": "05/04/2001",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "13",
+            "player": "Atiba Hutchinson (captain)",
+            "position": "MF",
+            "date_of_birth": "08/02/1983",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "ca",
+            "nationality": "Canadian"
+        },
+        {
+            "number": "14",
+            "player": "Mehmet Topal",
+            "position": "MF",
+            "date_of_birth": "03/03/1986",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "15",
+            "player": "Miralem Pjanić",
+            "position": "MF",
+            "date_of_birth": "02/04/1990",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ba",
+            "nationality": "Bosnian"
+        },
+        {
+            "number": "17",
+            "player": "Cyle Larin",
+            "position": "FW",
+            "date_of_birth": "17/04/1995",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "ca",
+            "nationality": "Canadian"
+        },
+        {
+            "number": "18",
+            "player": "Rachid Ghezzal",
+            "position": "MF",
+            "date_of_birth": "09/05/1992",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "dz",
+            "nationality": "Algerian"
+        },
+        {
+            "number": "20",
+            "player": "Necip Uysal",
+            "position": "MF",
+            "date_of_birth": "24/01/1991",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "21",
+            "player": "Fabrice N'Sakala",
+            "position": "DF",
+            "date_of_birth": "21/07/1990",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "cd",
+            "nationality": "Congolese"
+        },
+        {
+            "number": "23",
+            "player": "Welinton",
+            "position": "DF",
+            "date_of_birth": "10/04/1989",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "24",
+            "player": "Domagoj Vida",
+            "position": "DF",
+            "date_of_birth": "29/04/1989",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "28",
+            "player": "Kenan Karaman",
+            "position": "FW",
+            "date_of_birth": "05/03/1994",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "30",
+            "player": "Ersin Destanoğlu",
+            "position": "GK",
+            "date_of_birth": "01/01/2001",
+            "height": "1.95 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "34",
+            "player": "Mert Günok",
+            "position": "GK",
+            "date_of_birth": "01/03/1989",
+            "height": "1.96 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "46",
+            "player": "Serdar Saatçı",
+            "position": "DF",
+            "date_of_birth": "14/02/2003",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "77",
+            "player": "Umut Meraş",
+            "position": "DF",
+            "date_of_birth": "20/12/1995",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "90",
+            "player": "Alex Teixeira",
+            "position": "MF",
+            "date_of_birth": "06/01/1990",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "player": "Sergen Yalçın",
+            "position": "Coach",
+            "date_of_birth": "05/10/1972",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        }
+    ]
+}

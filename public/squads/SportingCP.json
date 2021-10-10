@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Antonio Adán",
+            "position": "GK",
+            "date_of_birth": "13/05/1987",
+            "height": "1.90 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "2",
+            "player": "Matheus Reis",
+            "position": "DF",
+            "date_of_birth": "18/02/1995",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "3",
+            "player": "Zouhair Feddal",
+            "position": "DF",
+            "date_of_birth": "23/12/1989",
+            "height": "1.91 m",
+            "foot": "left",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "4",
+            "player": "Sebastián Coates (captain)",
+            "position": "DF",
+            "date_of_birth": "07/10/1990",
+            "height": "1.96 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "6",
+            "player": "João Palhinha",
+            "position": "MF",
+            "date_of_birth": "09/07/1995",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "7",
+            "player": "Bruno Tabata",
+            "position": "MF",
+            "date_of_birth": "30/03/1997",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "8",
+            "player": "Matheus Nunes",
+            "position": "MF",
+            "date_of_birth": "27/08/1998",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "10",
+            "player": "Jovane Cabral",
+            "position": "FW",
+            "date_of_birth": "14/06/1998",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "cv",
+            "nationality": "Cape Verdean"
+        },
+        {
+            "number": "11",
+            "player": "Nuno Santos",
+            "position": "FW",
+            "date_of_birth": "13/02/1995",
+            "height": "1.77 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "13",
+            "player": "Luís Neto",
+            "position": "DF",
+            "date_of_birth": "26/05/1988",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "15",
+            "player": "Manuel Ugarte",
+            "position": "MF",
+            "date_of_birth": "11/04/2001",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "16",
+            "player": "Rúben Vinagre",
+            "position": "DF",
+            "date_of_birth": "09/04/1999",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "17",
+            "player": "Pablo Sarabia",
+            "position": "FW",
+            "date_of_birth": "11/05/1992",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "19",
+            "player": "Tiago Tomás",
+            "position": "FW",
+            "date_of_birth": "16/06/2002",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "21",
+            "player": "Paulinho",
+            "position": "FW",
+            "date_of_birth": "09/11/1992",
+            "height": "1.87 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "22",
+            "player": "André Paulo",
+            "position": "GK",
+            "date_of_birth": "18/12/1996",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "24",
+            "player": "Pedro Porro",
+            "position": "DF",
+            "date_of_birth": "13/09/1999",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "25",
+            "player": "Gonçalo Inácio",
+            "position": "DF",
+            "date_of_birth": "25/08/2001",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "28",
+            "player": "Pedro Gonçalves",
+            "position": "MF",
+            "date_of_birth": "28/06/1998",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "31",
+            "player": "João Virgínia",
+            "position": "GK",
+            "date_of_birth": "10/10/1999",
+            "height": "1.92 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "47",
+            "player": "Ricardo Esgaio",
+            "position": "DF",
+            "date_of_birth": "16/05/1993",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "57",
+            "player": "Geny Catamo",
+            "position": "FW",
+            "date_of_birth": "26/01/2001",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "mz",
+            "nationality": "Mozambican"
+        },
+        {
+            "number": "63",
+            "player": "José Marsà",
+            "position": "DF",
+            "date_of_birth": "04/03/2002",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "68",
+            "player": "Daniel Bragança",
+            "position": "MF",
+            "date_of_birth": "27/05/1999",
+            "height": "1.69 m",
+            "foot": "left",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "87",
+            "player": "Gonçalo Esteves",
+            "position": "DF",
+            "date_of_birth": "27/02/2004",
+            "height": "1.71 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "player": "Rúben Amorim",
+            "position": "Coach",
+            "date_of_birth": "27/01/1985",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Maarten Stekelenburg",
+            "position": "GK",
+            "date_of_birth": "22/09/1982",
+            "height": "1.97 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "2",
+            "player": "Jurriën Timber",
+            "position": "MF",
+            "date_of_birth": "17/06/2001",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "3",
+            "player": "Perr Schuurs",
+            "position": "DF",
+            "date_of_birth": "26/11/1999",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "4",
+            "player": "Edson Álvarez",
+            "position": "MF",
+            "date_of_birth": "24/10/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "mx",
+            "nationality": "Mexican"
+        },
+        {
+            "number": "5",
+            "player": "Sean Klaiber",
+            "position": "DF",
+            "date_of_birth": "31/07/1994",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "sr",
+            "nationality": "Surinamese"
+        },
+        {
+            "number": "6",
+            "player": "Davy Klaassen",
+            "position": "MF",
+            "date_of_birth": "21/02/1993",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "7",
+            "player": "David Neres",
+            "position": "FW",
+            "date_of_birth": "03/03/1997",
+            "height": "1.76 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "8",
+            "player": "Ryan Gravenberch",
+            "position": "MF",
+            "date_of_birth": "16/05/2002",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "9",
+            "player": "Danilo",
+            "position": "FW",
+            "date_of_birth": "07/04/1999",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "10",
+            "player": "Dušan Tadić (captain)",
+            "position": "FW",
+            "date_of_birth": "20/11/1988",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "11",
+            "player": "Antony",
+            "position": "FW",
+            "date_of_birth": "24/02/2000",
+            "height": "1.72 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "12",
+            "player": "Noussair Mazraoui",
+            "position": "DF",
+            "date_of_birth": "14/11/1997",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "15",
+            "player": "Devyne Rensch",
+            "position": "DF",
+            "date_of_birth": "18/01/2003",
+            "height": "1.79 m",
+            "foot": "both",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "16",
+            "player": "Jay Gorter",
+            "position": "GK",
+            "date_of_birth": "30/05/2000",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "17",
+            "player": "Daley Blind",
+            "position": "DF",
+            "date_of_birth": "09/03/1990",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "19",
+            "player": "Zakaria Labyad",
+            "position": "MF",
+            "date_of_birth": "09/03/1993",
+            "height": "1.75 m",
+            "foot": "both",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "20",
+            "player": "Mohammed Kudus",
+            "position": "MF",
+            "date_of_birth": "02/08/2000",
+            "height": "1.77 m",
+            "foot": "left",
+            "country_code": "gh",
+            "nationality": "Ghanaian"
+        },
+        {
+            "number": "21",
+            "player": "Lisandro Martínez",
+            "position": "DF",
+            "date_of_birth": "18/01/1998",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "22",
+            "player": "Sébastien Haller",
+            "position": "FW",
+            "date_of_birth": "22/06/1994",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "ci",
+            "nationality": "Ivorian"
+        },
+        {
+            "number": "23",
+            "player": "Steven Berghuis",
+            "position": "FW",
+            "date_of_birth": "19/12/1991",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "24",
+            "player": "André Onana",
+            "position": "GK",
+            "date_of_birth": "02/04/1996",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "cm",
+            "nationality": "Cameroonian"
+        },
+        {
+            "number": "30",
+            "player": "Mohamed Daramy",
+            "position": "FW",
+            "date_of_birth": "07/01/2002",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "31",
+            "player": "Nicolás Tagliafico",
+            "position": "DF",
+            "date_of_birth": "31/08/1992",
+            "height": "1.72 m",
+            "foot": "left",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "32",
+            "player": "Remko Pasveer",
+            "position": "GK",
+            "date_of_birth": "08/11/1983",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "36",
+            "player": "Giovanni",
+            "position": "FW",
+            "date_of_birth": "31/01/2002",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "player": "Erik ten Hag",
+            "position": "Coach",
+            "date_of_birth": "02/02/1970",
+            "height": "1.81 m",
+            "foot": "-",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        }
+    ]
+}

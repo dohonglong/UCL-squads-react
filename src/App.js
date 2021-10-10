@@ -117,7 +117,7 @@ function App() {
             rowData={players} 
             animateRows={true}
           >
-              <AgGridColumn headerName="No."                  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="number"                width={110}></AgGridColumn>
+              <AgGridColumn headerName="No."                                  filter={true} resizable={true}  cellStyle={centerAlign} field="number"                width={110}></AgGridColumn>
               <AgGridColumn headerName="Player"               sortable={true} filter={true} resizable={true}  cellStyle={leftAlign}   field="player"                width={290}></AgGridColumn>
               <AgGridColumn headerName="Position"             sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="position"              width={140}></AgGridColumn>
               <AgGridColumn headerName="Date of birth (Age)"  sortable={true} filter={true} resizable={true}  cellStyle={centerAlign} field="date_of_birth"         width={230}
