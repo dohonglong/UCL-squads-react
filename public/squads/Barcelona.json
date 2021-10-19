@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Marc-André ter Stegen",
+            "position": "GK",
+            "date_of_birth": "30/04/1992",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "2",
+            "player": "Sergiño Dest",
+            "position": "DF",
+            "date_of_birth": "03/11/2000",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "3",
+            "player": "Gerard Piqué",
+            "position": "DF",
+            "date_of_birth": "02/02/1987",
+            "height": "1.94 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "4",
+            "player": "Ronald Araújo",
+            "position": "DF",
+            "date_of_birth": "07/03/1999",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "5",
+            "player": "Sergio Busquets <b>(captain)</b>",
+            "position": "MF",
+            "date_of_birth": "16/07/1988",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "6",
+            "player": "Riqui Puig",
+            "position": "MF",
+            "date_of_birth": "13/08/1999",
+            "height": "1.69 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "7",
+            "player": "Ousmane Dembélé",
+            "position": "FW",
+            "date_of_birth": "15/05/1997",
+            "height": "1.78 m",
+            "foot": "both",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "9",
+            "player": "Memphis Depay",
+            "position": "FW",
+            "date_of_birth": "13/02/1994",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "10",
+            "player": "Ansu Fati",
+            "position": "FW",
+            "date_of_birth": "31/10/2002",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "11",
+            "player": "Yusuf Demir",
+            "position": "FW",
+            "date_of_birth": "02/06/2003",
+            "height": "1.73 m",
+            "foot": "left",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "12",
+            "player": "Martin Braithwaite",
+            "position": "FW",
+            "date_of_birth": "05/06/1991",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "13",
+            "player": "Neto",
+            "position": "GK",
+            "date_of_birth": "19/07/1989",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "14",
+            "player": "Philippe Coutinho",
+            "position": "MF",
+            "date_of_birth": "12/06/1992",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "15",
+            "player": "Clément Lenglet",
+            "position": "DF",
+            "date_of_birth": "17/06/1995",
+            "height": "1.86 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "16",
+            "player": "Pedri",
+            "position": "MF",
+            "date_of_birth": "25/11/2002",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "17",
+            "player": "Luuk de Jong",
+            "position": "FW",
+            "date_of_birth": "27/08/1990",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "18",
+            "player": "Jordi Alba",
+            "position": "DF",
+            "date_of_birth": "21/03/1989",
+            "height": "1.70 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "19",
+            "player": "Sergio Agüero",
+            "position": "FW",
+            "date_of_birth": "02/06/1988",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "20",
+            "player": "Sergi Roberto",
+            "position": "MF",
+            "date_of_birth": "07/02/1992",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "21",
+            "player": "Frenkie de Jong",
+            "position": "MF",
+            "date_of_birth": "12/05/1997",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "22",
+            "player": "Óscar Mingueza",
+            "position": "DF",
+            "date_of_birth": "13/05/1999",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "23",
+            "player": "Samuel Umtiti",
+            "position": "DF",
+            "date_of_birth": "14/11/1993",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "24",
+            "player": "Eric García",
+            "position": "DF",
+            "date_of_birth": "09/01/2001",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "26",
+            "player": "Iñaki Peña",
+            "position": "GK",
+            "date_of_birth": "02/03/1999",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "30",
+            "player": "Gavi",
+            "position": "MF",
+            "date_of_birth": "05/08/2004",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "player": "Ronald Koeman",
+            "position": "Coach",
+            "date_of_birth": "21/03/1963",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Oleksiy Shevchenko",
+            "position": "GK",
+            "date_of_birth": "24/02/1992",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "2",
+            "player": "Dodô",
+            "position": "DF",
+            "date_of_birth": "17/11/1998",
+            "height": "1.66 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "3",
+            "player": "Vitão",
+            "position": "DF",
+            "date_of_birth": "02/02/2000",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "4",
+            "player": "Serhiy Kryvtsov",
+            "position": "DF",
+            "date_of_birth": "15/03/1991",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "5",
+            "player": "Marlon",
+            "position": "DF",
+            "date_of_birth": "07/09/1995",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "6",
+            "player": "Taras Stepanenko",
+            "position": "MF",
+            "date_of_birth": "08/08/1989",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "7",
+            "player": "Maycon",
+            "position": "MF",
+            "date_of_birth": "15/07/1997",
+            "height": "1.73 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "9",
+            "player": "Dentinho",
+            "position": "MF",
+            "date_of_birth": "19/01/1989",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "10",
+            "player": "Júnior Moraes",
+            "position": "FW",
+            "date_of_birth": "04/04/1987",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "11",
+            "player": "Marlos",
+            "position": "MF",
+            "date_of_birth": "07/06/1988",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "14",
+            "player": "Tetê",
+            "position": "MF",
+            "date_of_birth": "15/02/2000",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "19",
+            "player": "Manor Solomon",
+            "position": "MF",
+            "date_of_birth": "24/07/1999",
+            "height": "1.70 m",
+            "foot": "both",
+            "country_code": "il",
+            "nationality": "Israelis"
+        },
+        {
+            "number": "20",
+            "player": "Mykhaylo Mudryk",
+            "position": "MF",
+            "date_of_birth": "05/01/2001",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "21",
+            "player": "Alan Patrick",
+            "position": "MF",
+            "date_of_birth": "13/05/1991",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "22",
+            "player": "Mykola Matviyenko",
+            "position": "DF",
+            "date_of_birth": "02/05/1996",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "23",
+            "player": "Lassina Traoré",
+            "position": "FW",
+            "date_of_birth": "12/01/2001",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "bf",
+            "nationality": "Burkinabé"
+        },
+        {
+            "number": "26",
+            "player": "Yukhym Konoplya",
+            "position": "DF",
+            "date_of_birth": "26/08/1999",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "30",
+            "player": "Andriy Pyatov <b>(captain)</b>",
+            "position": "GK",
+            "date_of_birth": "28/06/1984",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "31",
+            "player": "Ismaily",
+            "position": "DF",
+            "date_of_birth": "11/01/1990",
+            "height": "1.77 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "38",
+            "player": "Pedrinho",
+            "position": "MF",
+            "date_of_birth": "13/04/1998",
+            "height": "1.72 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "44",
+            "player": "Viktor Korniyenko",
+            "position": "DF",
+            "date_of_birth": "14/02/1999",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "45",
+            "player": "Danylo Sikan",
+            "position": "FW",
+            "date_of_birth": "16/04/2001",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "70",
+            "player": "Yevhen Konoplyanka",
+            "position": "MF",
+            "date_of_birth": "29/09/1989",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "77",
+            "player": "Valeriy Bondar",
+            "position": "DF",
+            "date_of_birth": "27/02/1999",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "99",
+            "player": "Fernando",
+            "position": "MF",
+            "date_of_birth": "01/03/1999",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "player": "Roberto De Zerbi",
+            "position": "Coach",
+            "date_of_birth": "06/06/1979",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "it",
+            "nationality": "Italian"
+        }
+    ]
+}

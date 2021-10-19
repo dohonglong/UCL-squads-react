@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Georgiy Bushchan",
+            "position": "GK",
+            "date_of_birth": "31/05/1994",
+            "height": "1.96 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "5",
+            "player": "Serhiy Sydorchuk <b>(captain)</b>",
+            "position": "MF",
+            "date_of_birth": "02/05/1991",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "6",
+            "player": "Mykyta Burda",
+            "position": "DF",
+            "date_of_birth": "24/03/1995",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "7",
+            "player": "Benjamin Verbič",
+            "position": "MF",
+            "date_of_birth": "27/11/1993",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "si",
+            "nationality": "Slovenian"
+        },
+        {
+            "number": "8",
+            "player": "Volodymyr Shepelyev",
+            "position": "MF",
+            "date_of_birth": "01/06/1997",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "9",
+            "player": "Eric Ramírez",
+            "position": "FW",
+            "date_of_birth": "20/11/1998",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "ve",
+            "nationality": "Venezuelan"
+        },
+        {
+            "number": "10",
+            "player": "Mykola Shaparenko",
+            "position": "MF",
+            "date_of_birth": "04/10/1998",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "13",
+            "player": "Artem Shabanov",
+            "position": "DF",
+            "date_of_birth": "07/03/1992",
+            "height": "1.90 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "14",
+            "player": "Carlos de Pena",
+            "position": "MF",
+            "date_of_birth": "11/03/1992",
+            "height": "1.77 m",
+            "foot": "left",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "15",
+            "player": "Viktor Tsygankov",
+            "position": "MF",
+            "date_of_birth": "15/11/1997",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "16",
+            "player": "Vitaliy Mykolenko",
+            "position": "DF",
+            "date_of_birth": "29/05/1999",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "17",
+            "player": "Bogdan Lednev",
+            "position": "MF",
+            "date_of_birth": "07/04/1998",
+            "height": "1.73 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "18",
+            "player": "Oleksandr Andriyevskyi",
+            "position": "MF",
+            "date_of_birth": "25/06/1994",
+            "height": "1.79 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "19",
+            "player": "Denys Garmash",
+            "position": "MF",
+            "date_of_birth": "19/04/1990",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "20",
+            "player": "Oleksandr Karavaev",
+            "position": "DF",
+            "date_of_birth": "02/06/1992",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "22",
+            "player": "Vitinho",
+            "position": "FW",
+            "date_of_birth": "01/04/1999",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "24",
+            "player": "Oleksandr Tymchyk",
+            "position": "DF",
+            "date_of_birth": "20/01/1997",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "28",
+            "player": "Vladyslav Kulach",
+            "position": "FW",
+            "date_of_birth": "07/05/1993",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "29",
+            "player": "Vitaliy Buyalskyi",
+            "position": "MF",
+            "date_of_birth": "06/01/1993",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "41",
+            "player": "Artem Besedin",
+            "position": "FW",
+            "date_of_birth": "31/03/1996",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "71",
+            "player": "Denys Boyko",
+            "position": "GK",
+            "date_of_birth": "29/01/1988",
+            "height": "1.97 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "73",
+            "player": "Ilya Shkurin",
+            "position": "FW",
+            "date_of_birth": "17/08/1999",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "by",
+            "nationality": "Belarusian"
+        },
+        {
+            "number": "89",
+            "player": "Vladyslav Supriaha",
+            "position": "FW",
+            "date_of_birth": "15/02/2000",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "94",
+            "player": "Tomasz Kędziora",
+            "position": "DF",
+            "date_of_birth": "11/06/1994",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "pl",
+            "nationality": "Polish"
+        },
+        {
+            "number": "99",
+            "player": "Denys Antyukh",
+            "position": "MF",
+            "date_of_birth": "30/07/1997",
+            "height": "1.83 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "player": "Mircea Lucescu",
+            "position": "Coach",
+            "date_of_birth": "29/07/1945",
+            "height": "1.77 m",
+            "foot": "-",
+            "country_code": "ro",
+            "nationality": "Romanian"
+        }
+    ]
+}

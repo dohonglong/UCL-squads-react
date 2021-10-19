@@ -92,7 +92,7 @@
         },
         {
             "number": "13",
-            "player": "Alessio Romagnoli (captain)",
+            "player": "Alessio Romagnoli <b>(captain)</b>",
             "position": "DF",
             "date_of_birth": "12/01/1995",
             "height": "1.85 m",
@@ -231,16 +231,6 @@
             "nationality": "Belgian"
         },
         {
-            "number": "77",
-            "player": "Alessandro Plizzari",
-            "position": "GK",
-            "date_of_birth": "12/03/2000",
-            "height": "1.87 m",
-            "foot": "right",
-            "country_code": "it",
-            "nationality": "Italian"
-        },
-        {
             "number": "79",
             "player": "Franck Kessié",
             "position": "MF",
@@ -249,6 +239,16 @@
             "foot": "right",
             "country_code": "ci",
             "nationality": "Ivorian"
+        },
+        {
+            "number": "83",
+            "player": "Antonio Mirante",
+            "position": "GK",
+            "date_of_birth": "08/07/1983",
+            "height": "1.93 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
         },
         {
             "player": "Stefano Pioli",

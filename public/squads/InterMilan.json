@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": " Samir Handanović <b>(captain)</b>",
+            "position": "GK",
+            "date_of_birth": "14/07/1984",
+            "height": "1.93 m",
+            "foot": "right",
+            "country_code": "si",
+            "nationality": "Slovenian"
+        },
+        {
+            "number": "2",
+            "player": "Denzel Dumfries",
+            "position": "DF",
+            "date_of_birth": "18/04/1996",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "5",
+            "player": "Roberto Gagliardini",
+            "position": "MF",
+            "date_of_birth": "07/04/1994",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "6",
+            "player": "Stefan de Vrij",
+            "position": "DF",
+            "date_of_birth": "05/02/1992",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "7",
+            "player": "Alexis Sánchez",
+            "position": "FW",
+            "date_of_birth": "19/12/1988",
+            "height": "1.68 m",
+            "foot": "right",
+            "country_code": "cl",
+            "nationality": "Chilean"
+        },
+        {
+            "number": "8",
+            "player": "Matías Vecino",
+            "position": "MF",
+            "date_of_birth": "24/08/1991",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "9",
+            "player": "Edin Džeko",
+            "position": "FW",
+            "date_of_birth": "17/03/1986",
+            "height": "1.93 m",
+            "foot": "right",
+            "country_code": "ba",
+            "nationality": "Bosnian"
+        },
+        {
+            "number": "10",
+            "player": "Lautaro Martínez",
+            "position": "FW",
+            "date_of_birth": "22/08/1997",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "11",
+            "player": "Aleksandar Kolarov",
+            "position": "DF",
+            "date_of_birth": "10/11/1985",
+            "height": "1.87 m",
+            "foot": "left",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "12",
+            "player": "Stefano Sensi",
+            "position": "MF",
+            "date_of_birth": "05/08/1995",
+            "height": "1.68 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "13",
+            "player": "Andrea Ranocchia",
+            "position": "DF",
+            "date_of_birth": "16/02/1988",
+            "height": "1.95 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "14",
+            "player": "Ivan Perišić",
+            "position": "MF",
+            "date_of_birth": "02/02/1989",
+            "height": "1.86 m",
+            "foot": "both",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "19",
+            "player": "Joaquín Correa",
+            "position": "FW",
+            "date_of_birth": "13/08/1994",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "20",
+            "player": "Hakan Çalhanoğlu",
+            "position": "MF",
+            "date_of_birth": "08/02/1994",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "tr",
+            "nationality": "Turkish"
+        },
+        {
+            "number": "21",
+            "player": "Alex Cordaz",
+            "position": "GK",
+            "date_of_birth": "01/01/1983",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "22",
+            "player": "Arturo Vidal",
+            "position": "MF",
+            "date_of_birth": "22/05/1987",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "cl",
+            "nationality": "Chilean"
+        },
+        {
+            "number": "23",
+            "player": "Nicolò Barella",
+            "position": "MF",
+            "date_of_birth": "07/02/1997",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "32",
+            "player": "Federico Dimarco",
+            "position": "DF",
+            "date_of_birth": "10/11/1997",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "33",
+            "player": "Danilo D'Ambrosio",
+            "position": "DF",
+            "date_of_birth": "09/09/1988",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "36",
+            "player": "Matteo Darmian",
+            "position": "DF",
+            "date_of_birth": "02/12/1989",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "37",
+            "player": "Milan Škriniar",
+            "position": "DF",
+            "date_of_birth": "11/02/1995",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "sk",
+            "nationality": "Slovak"
+        },
+        {
+            "number": "38",
+            "player": "Mattia Sangalli",
+            "position": "MF",
+            "date_of_birth": "27/02/2002",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "77",
+            "player": "Marcelo Brozović",
+            "position": "MF",
+            "date_of_birth": "16/11/1992",
+            "height": "1.81 m",
+            "foot": "both",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "95",
+            "player": "Alessandro Bastoni",
+            "position": "DF",
+            "date_of_birth": "13/04/1999",
+            "height": "1.90 m",
+            "foot": "left",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "97",
+            "player": "Ionuț Radu",
+            "position": "GK",
+            "date_of_birth": "28/05/1997",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "ro",
+            "nationality": "Romanian"
+        },
+        {
+            "player": "Simone Inzaghi",
+            "position": "Coach",
+            "date_of_birth": "05/04/1976",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        }
+    ]
+}

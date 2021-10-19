@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Thibaut Courtois",
+            "position": "GK",
+            "date_of_birth": "11/05/1992",
+            "height": "2.00 m",
+            "foot": "left",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "2",
+            "player": "Dani Carvajal",
+            "position": "DF",
+            "date_of_birth": "11/01/1992",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "3",
+            "player": "Éder Militão",
+            "position": "DF",
+            "date_of_birth": "18/01/1998",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "4",
+            "player": "David Alaba",
+            "position": "DF",
+            "date_of_birth": "24/06/1992",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "5",
+            "player": "Jesús Vallejo",
+            "position": "DF",
+            "date_of_birth": "05/01/1997",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "6",
+            "player": "Nacho Fernández",
+            "position": "DF",
+            "date_of_birth": "18/01/1990",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "7",
+            "player": "Eden Hazard",
+            "position": "FW",
+            "date_of_birth": "07/01/1991",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "8",
+            "player": "Toni Kroos",
+            "position": "MF",
+            "date_of_birth": "04/01/1990",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "9",
+            "player": "Karim Benzema",
+            "position": "FW",
+            "date_of_birth": "19/12/1987",
+            "height": "1.84 m",
+            "foot": "both",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "10",
+            "player": "Luka Modrić",
+            "position": "MF",
+            "date_of_birth": "09/09/1985",
+            "height": "1.72 m",
+            "foot": "both",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "11",
+            "player": "Marco Asensio",
+            "position": "FW",
+            "date_of_birth": "21/01/1996",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "12",
+            "player": "Marcelo <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "12/05/1988",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "13",
+            "player": "Andriy Lunin",
+            "position": "GK",
+            "date_of_birth": "11/02/1999",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "14",
+            "player": "Casemiro",
+            "position": "MF",
+            "date_of_birth": "23/02/1992",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "15",
+            "player": "Federico Valverde",
+            "position": "MF",
+            "date_of_birth": "22/07/1998",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "16",
+            "player": "Luka Jović",
+            "position": "FW",
+            "date_of_birth": "23/12/1997",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "17",
+            "player": "Lucas Vázquez",
+            "position": "MF",
+            "date_of_birth": "01/01/1991",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "18",
+            "player": "Gareth Bale",
+            "position": "FW",
+            "date_of_birth": "16/07/1989",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "gb-wls",
+            "nationality": "Welsh"
+        },
+        {
+            "number": "19",
+            "player": "Dani Ceballos",
+            "position": "MF",
+            "date_of_birth": "07/08/1996",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "20",
+            "player": "Vinícius Júnior",
+            "position": "FW",
+            "date_of_birth": "12/07/2000",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "21",
+            "player": "Rodrygo",
+            "position": "FW",
+            "date_of_birth": "09/01/2001",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "22",
+            "player": "Isco",
+            "position": "MF",
+            "date_of_birth": "21/04/1992",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "23",
+            "player": "Ferland Mendy",
+            "position": "DF",
+            "date_of_birth": "08/06/1995",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "24",
+            "player": "Mariano Díaz",
+            "position": "FW",
+            "date_of_birth": "01/08/1993",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "do",
+            "nationality": "Dominican"
+        },
+        {
+            "number": "25",
+            "player": "Eduardo Camavinga",
+            "position": "MF",
+            "date_of_birth": "10/11/2002",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "player": "Carlo Ancelotti",
+            "position": "Coach",
+            "date_of_birth": "10/06/1959",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        }
+    ]
+}

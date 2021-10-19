@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Manuel Neuer <b>(captain)</b>",
+            "position": "GK",
+            "date_of_birth": "27/03/1986",
+            "height": "1.93 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "2",
+            "player": "Dayot Upamecano",
+            "position": "DF",
+            "date_of_birth": "27/10/1998",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "3",
+            "player": "Omar Richards",
+            "position": "DF",
+            "date_of_birth": "15/02/1998",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "4",
+            "player": "Niklas Süle",
+            "position": "DF",
+            "date_of_birth": "03/09/1995",
+            "height": "1.95 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "5",
+            "player": "Benjamin Pavard",
+            "position": "DF",
+            "date_of_birth": "28/03/1996",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "6",
+            "player": "Joshua Kimmich",
+            "position": "MF",
+            "date_of_birth": "08/02/1995",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "7",
+            "player": "Serge Gnabry",
+            "position": "FW",
+            "date_of_birth": "14/07/1995",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "8",
+            "player": "Leon Goretzka",
+            "position": "MF",
+            "date_of_birth": "06/02/1995",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "9",
+            "player": "Robert Lewandowski",
+            "position": "FW",
+            "date_of_birth": "21/08/1988",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "pl",
+            "nationality": "Polish"
+        },
+        {
+            "number": "10",
+            "player": "Leroy Sané",
+            "position": "FW",
+            "date_of_birth": "11/01/1996",
+            "height": "1.83 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "11",
+            "player": "Kingsley Coman",
+            "position": "FW",
+            "date_of_birth": "13/06/1996",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "13",
+            "player": "Eric Maxim Choupo-Moting",
+            "position": "FW",
+            "date_of_birth": "23/03/1989",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "cm",
+            "nationality": "Cameroonian"
+        },
+        {
+            "number": "17",
+            "player": "Michaël Cuisance",
+            "position": "MF",
+            "date_of_birth": "16/08/1999",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "18",
+            "player": "Marcel Sabitzer",
+            "position": "MF",
+            "date_of_birth": "17/03/1994",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "19",
+            "player": "Alphonso Davies",
+            "position": "DF",
+            "date_of_birth": "02/11/2000",
+            "height": "1.83 m",
+            "foot": "left",
+            "country_code": "ca",
+            "nationality": "Canadian"
+        },
+        {
+            "number": "20",
+            "player": "Bouna Sarr",
+            "position": "DF",
+            "date_of_birth": "31/01/1992",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "sn",
+            "nationality": "Senegalese"
+        },
+        {
+            "number": "21",
+            "player": "Lucas Hernández",
+            "position": "DF",
+            "date_of_birth": "14/02/1996",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "22",
+            "player": "Marc Roca",
+            "position": "MF",
+            "date_of_birth": "26/11/1996",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "23",
+            "player": "Tanguy Nianzou",
+            "position": "DF",
+            "date_of_birth": "07/06/2002",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "24",
+            "player": "Corentin Tolisso",
+            "position": "MF",
+            "date_of_birth": "03/08/1994",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "25",
+            "player": "Thomas Müller",
+            "position": "FW",
+            "date_of_birth": "13/09/1989",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "26",
+            "player": "Sven Ulreich",
+            "position": "GK",
+            "date_of_birth": "03/08/1988",
+            "height": "1.92 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "36",
+            "player": "Christian Früchtl",
+            "position": "GK",
+            "date_of_birth": "28/01/2000",
+            "height": "1.93 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "40",
+            "player": "Malik Tillman",
+            "position": "MF",
+            "date_of_birth": "28/05/2002",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "44",
+            "player": "Josip Stanišić",
+            "position": "DF",
+            "date_of_birth": "02/04/2000",
+            "height": "1.87 m",
+            "foot": "both",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "player": "Julian Nagelsmann",
+            "position": "Coach",
+            "date_of_birth": "23/07/1987",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        }
+    ]
+}

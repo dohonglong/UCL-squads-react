@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Dumitru Celeadnic",
+            "position": "GK",
+            "date_of_birth": "23/04/1992",
+            "height": "1.93 m",
+            "foot": "left",
+            "country_code": "md",
+            "nationality": "Moldovan"
+        },
+        {
+            "number": "2",
+            "player": "Danilo Arboleda",
+            "position": "DF",
+            "date_of_birth": "16/05/1995",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "co",
+            "nationality": "Colombian"
+        },
+        {
+            "number": "6",
+            "player": "Stjepan Radeljić",
+            "position": "DF",
+            "date_of_birth": "05/09/1997",
+            "height": "2.00 m",
+            "foot": "left",
+            "country_code": "ba",
+            "nationality": "Bosnian"
+        },
+        {
+            "number": "8",
+            "player": "Alexandr Belousov",
+            "position": "MF",
+            "date_of_birth": "14/05/1998",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "md",
+            "nationality": "Moldovan"
+        },
+        {
+            "number": "9",
+            "player": "Adama Traoré",
+            "position": "FW",
+            "date_of_birth": "05/06/1995",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "ml",
+            "nationality": "Malian"
+        },
+        {
+            "number": "10",
+            "player": "Frank Castañeda <b>(captain)</b>",
+            "position": "FW",
+            "date_of_birth": "17/07/1994",
+            "height": "1.72 m",
+            "foot": "both",
+            "country_code": "co",
+            "nationality": "Colombian"
+        },
+        {
+            "number": "13",
+            "player": "Fernando Costanza",
+            "position": "DF",
+            "date_of_birth": "29/11/1998",
+            "height": "1.85 m",
+            "foot": "both",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "15",
+            "player": "Cristiano",
+            "position": "DF",
+            "date_of_birth": "29/08/1993",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "16",
+            "player": "Keston Julien",
+            "position": "DF",
+            "date_of_birth": "26/10/1998",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "tt",
+            "nationality": "Trinidadian"
+        },
+        {
+            "number": "17",
+            "player": "Jasurbek Yakhshiboev",
+            "position": "FW",
+            "date_of_birth": "24/06/1997",
+            "height": "1.80 m",
+            "foot": "both",
+            "country_code": "uz",
+            "nationality": "Uzbek"
+        },
+        {
+            "number": "18",
+            "player": "Moussa Kyabou",
+            "position": "MF",
+            "date_of_birth": "18/04/1998",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ml",
+            "nationality": "Malian"
+        },
+        {
+            "number": "19",
+            "player": "Serafim Cojocari",
+            "position": "DF",
+            "date_of_birth": "07/01/2001",
+            "height": "1.80 m",
+            "foot": "-",
+            "country_code": "md",
+            "nationality": "Moldovan"
+        },
+        {
+            "number": "20",
+            "player": "Boban Nikolov",
+            "position": "MF",
+            "date_of_birth": "28/07/1994",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "mk",
+            "nationality": "Macedonian"
+        },
+        {
+            "number": "21",
+            "player": "Edmund Addo",
+            "position": "MF",
+            "date_of_birth": "17/05/2000",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "gh",
+            "nationality": "Ghanaian"
+        },
+        {
+            "number": "22",
+            "player": "Dimitris Kolovos",
+            "position": "MF",
+            "date_of_birth": "27/04/1993",
+            "height": "1.84 m",
+            "foot": "both",
+            "country_code": "gr",
+            "nationality": "Greek"
+        },
+        {
+            "number": "24",
+            "player": "Eugeniu Gliga",
+            "position": "FW",
+            "date_of_birth": "12/05/2001",
+            "height": "1.71 m",
+            "foot": "-",
+            "country_code": "md",
+            "nationality": "Moldovan"
+        },
+        {
+            "number": "29",
+            "player": "Danila Ignatov",
+            "position": "DF",
+            "date_of_birth": "19/06/2001",
+            "height": "1.90 m",
+            "foot": "-",
+            "country_code": "md",
+            "nationality": "Moldovan"
+        },
+        {
+            "number": "30",
+            "player": "Giorgos Athanasiadis",
+            "position": "GK",
+            "date_of_birth": "07/04/1993",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "gr",
+            "nationality": "Greek"
+        },
+        {
+            "number": "31",
+            "player": "Sébastien Thill",
+            "position": "MF",
+            "date_of_birth": "29/12/1993",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "lu",
+            "nationality": "Luxembourger"
+        },
+        {
+            "number": "33",
+            "player": "Serghei Pașcenco",
+            "position": "GK",
+            "date_of_birth": "18/12/1982",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "md",
+            "nationality": "Moldovan"
+        },
+        {
+            "number": "55",
+            "player": "Gustavo Dulanto",
+            "position": "DF",
+            "date_of_birth": "09/05/1995",
+            "height": "1.96 m",
+            "foot": "left",
+            "country_code": "pe",
+            "nationality": "Peruvian"
+        },
+        {
+            "number": "77",
+            "player": "Bruno",
+            "position": "MF",
+            "date_of_birth": "26/05/1994",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "90",
+            "player": "Evgheni Pleşco",
+            "position": "DF",
+            "date_of_birth": "25/02/2001",
+            "height": "2.02 m",
+            "foot": "-",
+            "country_code": "md",
+            "nationality": "Moldovan"
+        },
+        {
+            "number": "98",
+            "player": "Maxim Cojocaru",
+            "position": "MF",
+            "date_of_birth": "13/01/1998",
+            "height": "1.77 m",
+            "foot": "left",
+            "country_code": "md",
+            "nationality": "Moldovan"
+        },
+        {
+            "number": "99",
+            "player": "Momo Yansané",
+            "position": "FW",
+            "date_of_birth": "29/07/1997",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "gn",
+            "nationality": "Guinean"
+        },
+        {
+            "player": "Yuriy Vernydub",
+            "position": "Coach",
+            "date_of_birth": "22/01/1966",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        }
+    ]
+}

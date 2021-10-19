@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Mile Svilar",
+            "position": "GK",
+            "date_of_birth": "27/08/1999",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "2",
+            "player": "Gilberto",
+            "position": "DF",
+            "date_of_birth": "07/03/1993",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "3",
+            "player": "Álex Grimaldo",
+            "position": "DF",
+            "date_of_birth": "20/09/1995",
+            "height": "1.71 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "4",
+            "player": "Lucas Veríssimo",
+            "position": "DF",
+            "date_of_birth": "02/07/1995",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "5",
+            "player": "Jan Vertonghen",
+            "position": "DF",
+            "date_of_birth": "24/04/1987",
+            "height": "1.89 m",
+            "foot": "left",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "7",
+            "player": "Éverton",
+            "position": "FW",
+            "date_of_birth": "22/03/1996",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "9",
+            "player": "Darwin Núñez",
+            "position": "FW",
+            "date_of_birth": "24/06/1999",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "11",
+            "player": "Soualiho Meïté",
+            "position": "MF",
+            "date_of_birth": "17/03/1994",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "14",
+            "player": "Haris Seferović",
+            "position": "FW",
+            "date_of_birth": "22/02/1992",
+            "height": "1.86 m",
+            "foot": "left",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "15",
+            "player": "Roman Yaremchuk",
+            "position": "FW",
+            "date_of_birth": "27/11/1995",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "17",
+            "player": "Diogo Gonçalves",
+            "position": "MF",
+            "date_of_birth": "06/02/1997",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "18",
+            "player": "Rodrigo Pinho",
+            "position": "FW",
+            "date_of_birth": "30/05/1991",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "20",
+            "player": "João Mário",
+            "position": "MF",
+            "date_of_birth": "19/01/1993",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "21",
+            "player": "Pizzi",
+            "position": "MF",
+            "date_of_birth": "06/10/1989",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "22",
+            "player": "Valentino Lazaro",
+            "position": "MF",
+            "date_of_birth": "24/03/1996",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "23",
+            "player": "Nemanja Radonjić",
+            "position": "FW",
+            "date_of_birth": "15/02/1996",
+            "height": "1.85 m",
+            "foot": "both",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "27",
+            "player": "Rafa Silva",
+            "position": "FW",
+            "date_of_birth": "17/05/1993",
+            "height": "1.71 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "28",
+            "player": "Julian Weigl",
+            "position": "MF",
+            "date_of_birth": "24/03/1996",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "30",
+            "player": "Nicolás Otamendi",
+            "position": "DF",
+            "date_of_birth": "12/02/1988",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "34",
+            "player": "André Almeida <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "10/09/1990",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "49",
+            "player": "Adel Taarabt",
+            "position": "MF",
+            "date_of_birth": "24/05/1989",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "77",
+            "player": "Helton Leite",
+            "position": "GK",
+            "date_of_birth": "02/11/1990",
+            "height": "1.96 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "83",
+            "player": "Gedson Fernandes",
+            "position": "MF",
+            "date_of_birth": "09/01/1999",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "97",
+            "player": "Ferro",
+            "position": "DF",
+            "date_of_birth": "26/03/1997",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "99",
+            "player": "Odysseas Vlachodimos",
+            "position": "GK",
+            "date_of_birth": "26/04/1994",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "gr",
+            "nationality": "Greek"
+        },
+        {
+            "player": "Jorge Jesus",
+            "position": "Coach",
+            "date_of_birth": "24/07/1954",
+            "height": "1.78 m",
+            "foot": "-",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        }
+    ]
+}
