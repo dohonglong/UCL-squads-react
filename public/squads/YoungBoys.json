@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "4",
+            "player": "Mohamed Ali Camara",
+            "position": "DF",
+            "date_of_birth": "28/08/1997",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "gn",
+            "nationality": "Guinean"
+        },
+        {
+            "number": "5",
+            "player": "Cédric Zesiger",
+            "position": "DF",
+            "date_of_birth": "24/06/1998",
+            "height": "1.94 m",
+            "foot": "left",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "7",
+            "player": "Marvin Spielmann",
+            "position": "MF",
+            "date_of_birth": "23/02/1996",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "8",
+            "player": "Vincent Sierro",
+            "position": "MF",
+            "date_of_birth": "08/10/1995",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "9",
+            "player": "Wilfried Kanga",
+            "position": "FW",
+            "date_of_birth": "21/02/1998",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "10",
+            "player": "Miralem Sulejmani",
+            "position": "FW",
+            "date_of_birth": "05/12/1988",
+            "height": "1.79 m",
+            "foot": "left",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "11",
+            "player": "Alexandre Jankewitz",
+            "position": "MF",
+            "date_of_birth": "25/12/2001",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "13",
+            "player": "Moumi Ngamaleu",
+            "position": "FW",
+            "date_of_birth": "09/07/1994",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "cm",
+            "nationality": "Cameroonian"
+        },
+        {
+            "number": "14",
+            "player": "Nicolas Bürgy",
+            "position": "DF",
+            "date_of_birth": "07/08/1995",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "15",
+            "player": "Meschack Elia",
+            "position": "FW",
+            "date_of_birth": "06/08/1997",
+            "height": "1.73 m",
+            "foot": "right",
+            "country_code": "cd",
+            "nationality": "Congolese"
+        },
+        {
+            "number": "16",
+            "player": "Christian Fassnacht",
+            "position": "MF",
+            "date_of_birth": "11/11/1993",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "17",
+            "player": "Jordan Siebatcheu (Pefok)",
+            "position": "FW",
+            "date_of_birth": "26/04/1996",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "18",
+            "player": "Jean-Pierre Nsame",
+            "position": "FW",
+            "date_of_birth": "01/05/1993",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "cm",
+            "nationality": "Cameroonian"
+        },
+        {
+            "number": "20",
+            "player": "Michel Aebischer",
+            "position": "MF",
+            "date_of_birth": "06/01/1997",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "21",
+            "player": "Ulisses Garcia",
+            "position": "DF",
+            "date_of_birth": "11/01/1996",
+            "height": "1.83 m",
+            "foot": "left",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "24",
+            "player": "Quentin Maceiras",
+            "position": "DF",
+            "date_of_birth": "10/10/1995",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "25",
+            "player": "Jordan Lefort",
+            "position": "DF",
+            "date_of_birth": "09/08/1993",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "26",
+            "player": "David von Ballmoos",
+            "position": "GK",
+            "date_of_birth": "30/12/1994",
+            "height": "1.92 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "28",
+            "player": "Fabian Lustenberger <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "02/05/1988",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "30",
+            "player": "Sandro Lauper",
+            "position": "MF",
+            "date_of_birth": "25/10/1996",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "32",
+            "player": "Fabian Rieder",
+            "position": "MF",
+            "date_of_birth": "16/02/2002",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "35",
+            "player": "Christopher Martins Pereira",
+            "position": "MF",
+            "date_of_birth": "19/02/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "lu",
+            "nationality": "Luxembourger"
+        },
+        {
+            "number": "36",
+            "player": "Silvan Hefti",
+            "position": "DF",
+            "date_of_birth": "25/10/1997",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "77",
+            "player": "Joël Monteiro",
+            "position": "FW",
+            "date_of_birth": "05/08/1999",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "pt",
+            "nationality": "Portuguese"
+        },
+        {
+            "number": "91",
+            "player": "Guillaume Faivre",
+            "position": "GK",
+            "date_of_birth": "20/02/1987",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "player": "David Wagner",
+            "position": "Coach",
+            "date_of_birth": "19/10/1971",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        }
+    ]
+}

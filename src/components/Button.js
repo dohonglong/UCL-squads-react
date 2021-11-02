@@ -47,10 +47,16 @@ function MyButton(props) {
                         <Dropdown.Item as="button" value="Young Boys"           onClick={props.click}><span className="flag-icon flag-icon-ch">     </span>&nbsp;&nbsp;Young Boys       </Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group G</h5>
-
+                        <Dropdown.Item as="button" value="Lille OSC"            onClick={props.click}><span className="flag-icon flag-icon-fr">     </span>&nbsp;&nbsp;Lille OSC        </Dropdown.Item>
+                        <Dropdown.Item as="button" value="Sevilla"              onClick={props.click}><span className="flag-icon flag-icon-es">     </span>&nbsp;&nbsp;Sevilla          </Dropdown.Item>
+                        <Dropdown.Item as="button" value="Red Bull Salzburg"    onClick={props.click}><span className="flag-icon flag-icon-at">     </span>&nbsp;&nbsp;RB Salzburg      </Dropdown.Item>
+                        <Dropdown.Item as="button" value="VfL Wolfsburg"        onClick={props.click}><span className="flag-icon flag-icon-de">     </span>&nbsp;&nbsp;VfL Wolfsburg    </Dropdown.Item>
                     <Dropdown.Divider />
                     <h5>&nbsp;&nbsp;&nbsp;&nbsp;Group H</h5>
-                        
+                        <Dropdown.Item as="button" value="Chelsea"              onClick={props.click}><span className="flag-icon flag-icon-gb-eng"> </span>&nbsp;&nbsp;Chelsea          </Dropdown.Item>
+                        <Dropdown.Item as="button" value="Juventus"             onClick={props.click}><span className="flag-icon flag-icon-it">     </span>&nbsp;&nbsp;Juventus         </Dropdown.Item>
+                        <Dropdown.Item as="button" value="Zenit Saint Petersburg"   onClick={props.click}><span className="flag-icon flag-icon-ru"> </span>&nbsp;&nbsp;Zenit            </Dropdown.Item>
+                        <Dropdown.Item as="button" value="Malmö FF"             onClick={props.click}><span className="flag-icon flag-icon-se">     </span>&nbsp;&nbsp;Malmö FF         </Dropdown.Item>
                 </Dropdown.Menu>
             </Dropdown>
 

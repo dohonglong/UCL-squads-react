@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Sergio Asenjo",
+            "position": "GK",
+            "date_of_birth": "28/06/1989",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "2",
+            "player": "Mario Gaspar <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "24/11/1990",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "3",
+            "player": "Raúl Albiol",
+            "position": "DF",
+            "date_of_birth": "04/09/1985",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "4",
+            "player": "Pau Torres",
+            "position": "DF",
+            "date_of_birth": "16/01/1997",
+            "height": "1.91 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "5",
+            "player": "Dani Parejo",
+            "position": "MF",
+            "date_of_birth": "16/04/1989",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "6",
+            "player": "Étienne Capoue",
+            "position": "MF",
+            "date_of_birth": "11/07/1988",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "7",
+            "player": "Gerard Moreno",
+            "position": "FW",
+            "date_of_birth": "07/04/1992",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "8",
+            "player": "Juan Foyth",
+            "position": "DF",
+            "date_of_birth": "12/01/1998",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "9",
+            "player": "Paco Alcácer",
+            "position": "FW",
+            "date_of_birth": "30/08/1993",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "10",
+            "player": "Vicente Iborra",
+            "position": "MF",
+            "date_of_birth": "16/01/1988",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "11",
+            "player": "Samuel Chukwueze",
+            "position": "FW",
+            "date_of_birth": "22/05/1999",
+            "height": "1.72 m",
+            "foot": "left",
+            "country_code": "ng",
+            "nationality": "Nigerian"
+        },
+        {
+            "number": "12",
+            "player": "Pervis Estupiñán",
+            "position": "DF",
+            "date_of_birth": "21/01/1998",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "ec",
+            "nationality": "Ecuadorian"
+        },
+        {
+            "number": "13",
+            "player": "Gerónimo Rulli",
+            "position": "GK",
+            "date_of_birth": "20/05/1992",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "14",
+            "player": "Manu Trigueros",
+            "position": "MF",
+            "date_of_birth": "17/10/1991",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "15",
+            "player": "Arnaut Danjuma",
+            "position": "FW",
+            "date_of_birth": "31/01/1997",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "16",
+            "player": "Boulaye Dia",
+            "position": "FW",
+            "date_of_birth": "16/11/1996",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "sn",
+            "nationality": "Senegalese"
+        },
+        {
+            "number": "17",
+            "player": "Dani Raba",
+            "position": "FW",
+            "date_of_birth": "29/10/1995",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "18",
+            "player": "Alberto Moreno",
+            "position": "DF",
+            "date_of_birth": "05/07/1992",
+            "height": "1.71 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "18",
+            "player": "Nicolas Jackson",
+            "position": "FW",
+            "date_of_birth": "20/06/2001",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "sn",
+            "nationality": "Senegalese"
+        },
+        {
+            "number": "19",
+            "player": "Francis Coquelin",
+            "position": "MF",
+            "date_of_birth": "13/05/1991",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "20",
+            "player": "Rubén Peña",
+            "position": "DF",
+            "date_of_birth": "18/07/1991",
+            "height": "1.70 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "22",
+            "player": "Aïssa Mandi",
+            "position": "DF",
+            "date_of_birth": "20/10/1991",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "dz",
+            "nationality": "Algerian"
+        },
+        {
+            "number": "23",
+            "player": "Moi Gómez",
+            "position": "MF",
+            "date_of_birth": "23/06/1994",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "24",
+            "player": "Alfonso Pedraza",
+            "position": "DF",
+            "date_of_birth": "09/04/1996",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "28",
+            "player": "Nikita Iosifov",
+            "position": "MF",
+            "date_of_birth": "11/04/2001",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "player": "Unai Emery",
+            "position": "Coach",
+            "date_of_birth": "03/11/1971",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        }
+    ]
+}
