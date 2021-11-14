@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Nico Mantl",
+            "position": "GK",
+            "date_of_birth": "06/02/2000",
+            "height": "1.93 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "4",
+            "player": "Kamil Piątkowski",
+            "position": "DF",
+            "date_of_birth": "21/06/2000",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "pl",
+            "nationality": "Polish"
+        },
+        {
+            "number": "6",
+            "player": "Jérôme Onguéné",
+            "position": "DF",
+            "date_of_birth": "22/12/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "cm",
+            "nationality": "Cameroonian"
+        },
+        {
+            "number": "7",
+            "player": "Nicolás Capaldo",
+            "position": "MF",
+            "date_of_birth": "14/09/1998",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "9",
+            "player": "Chukwubuike Adamu",
+            "position": "FW",
+            "date_of_birth": "06/06/2001",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "10",
+            "player": "Antoine Bernède",
+            "position": "MF",
+            "date_of_birth": "26/05/1999",
+            "height": "1.77 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "11",
+            "player": "Brenden Aaronson",
+            "position": "MF",
+            "date_of_birth": "22/10/2000",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "13",
+            "player": "Nicolas Seiwald",
+            "position": "MF",
+            "date_of_birth": "04/05/2001",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "15",
+            "player": "Mamady Diambou",
+            "position": "MF",
+            "date_of_birth": "11/11/2002",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "ml",
+            "nationality": "Malian"
+        },
+        {
+            "number": "16",
+            "player": "Zlatko Junuzović",
+            "position": "MF",
+            "date_of_birth": "26/09/1987",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "17",
+            "player": "Andreas Ulmer <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "30/10/1985",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "18",
+            "player": "Philipp Köhn",
+            "position": "GK",
+            "date_of_birth": "02/04/1998",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "19",
+            "player": "Mohamed Camara",
+            "position": "MF",
+            "date_of_birth": "06/01/2000",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "ml",
+            "nationality": "Malian"
+        },
+        {
+            "number": "21",
+            "player": "Luka Sučić",
+            "position": "MF",
+            "date_of_birth": "08/09/2002",
+            "height": "1.85 m",
+            "foot": "left",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "22",
+            "player": "Oumar Solet",
+            "position": "DF",
+            "date_of_birth": "07/02/2000",
+            "height": "1.92 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "23",
+            "player": "Roko Šimić",
+            "position": "FW",
+            "date_of_birth": "10/09/2003",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "27",
+            "player": "Karim Adeyemi",
+            "position": "FW",
+            "date_of_birth": "18/01/2002",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "29",
+            "player": "Kilian Ludewig",
+            "position": "DF",
+            "date_of_birth": "05/03/2000",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "30",
+            "player": "Benjamin Šeško",
+            "position": "FW",
+            "date_of_birth": "31/05/2003",
+            "height": "1.94 m",
+            "foot": "right",
+            "country_code": "si",
+            "nationality": "Slovenian"
+        },
+        {
+            "number": "33",
+            "player": "Alexander Walke",
+            "position": "GK",
+            "date_of_birth": "06/06/1983",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "37",
+            "player": "Daouda Guindo",
+            "position": "DF",
+            "date_of_birth": "14/10/2002",
+            "height": "1.83 m",
+            "foot": "left",
+            "country_code": "ml",
+            "nationality": "Malian"
+        },
+        {
+            "number": "39",
+            "player": "Maximilian Wöber",
+            "position": "DF",
+            "date_of_birth": "04/02/1998",
+            "height": "1.88 m",
+            "foot": "left",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "43",
+            "player": "Rasmus Kristensen",
+            "position": "DF",
+            "date_of_birth": "11/07/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "77",
+            "player": "Noah Okafor",
+            "position": "FW",
+            "date_of_birth": "24/05/2000",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "95",
+            "player": "Bernardo",
+            "position": "DF",
+            "date_of_birth": "14/05/1995",
+            "height": "1.86 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "player": "Matthias Jaissle",
+            "position": "Coach",
+            "date_of_birth": "05/04/1988",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        }
+    ]
+}

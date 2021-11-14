@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Stanislav Kritsyuk",
+            "position": "GK",
+            "date_of_birth": "01/12/1990",
+            "height": "1.92 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "2",
+            "player": "Dmitri Chistyakov",
+            "position": "DF",
+            "date_of_birth": "13/01/1994",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "3",
+            "player": "Douglas Santos",
+            "position": "DF",
+            "date_of_birth": "22/03/1994",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "4",
+            "player": "Danil Krugovoy",
+            "position": "DF",
+            "date_of_birth": "28/05/1998",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "5",
+            "player": "Wilmar Barrios",
+            "position": "MF",
+            "date_of_birth": "16/10/1993",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "co",
+            "nationality": "Colombian"
+        },
+        {
+            "number": "6",
+            "player": "Dejan Lovren <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "05/07/1989",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "7",
+            "player": "Sardar Azmoun",
+            "position": "FW",
+            "date_of_birth": "01/01/1995",
+            "height": "1.86 m",
+            "foot": "both",
+            "country_code": "ir",
+            "nationality": "Iranian"
+        },
+        {
+            "number": "8",
+            "player": "Wendel",
+            "position": "MF",
+            "date_of_birth": "28/08/1997",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "10",
+            "player": "Malcom",
+            "position": "FW",
+            "date_of_birth": "26/02/1997",
+            "height": "1.71 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "11",
+            "player": "Claudinho",
+            "position": "MF",
+            "date_of_birth": "28/01/1997",
+            "height": "1.70 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "14",
+            "player": "Daler Kuzyaev",
+            "position": "MF",
+            "date_of_birth": "15/01/1993",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "15",
+            "player": "Vyacheslav Karavaev",
+            "position": "DF",
+            "date_of_birth": "20/05/1995",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "17",
+            "player": "Andrey Mostovoy",
+            "position": "MF",
+            "date_of_birth": "05/11/1997",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "19",
+            "player": "Aleksey Sutormin",
+            "position": "MF",
+            "date_of_birth": "10/01/1994",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "21",
+            "player": "Aleksandr Erokhin",
+            "position": "MF",
+            "date_of_birth": "13/10/1989",
+            "height": "1.95 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "22",
+            "player": "Artёm Dzyuba",
+            "position": "FW",
+            "date_of_birth": "22/08/1988",
+            "height": "1.96 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "27",
+            "player": "Magomed Ozdoev",
+            "position": "MF",
+            "date_of_birth": "05/11/1992",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "41",
+            "player": "Mikhail Kerzhakov",
+            "position": "GK",
+            "date_of_birth": "28/01/1987",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "44",
+            "player": "Yaroslav Rakitskiy",
+            "position": "DF",
+            "date_of_birth": "03/08/1989",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "ua",
+            "nationality": "Ukrainian"
+        },
+        {
+            "number": "64",
+            "player": "Kirill Kravtsov",
+            "position": "MF",
+            "date_of_birth": "14/06/2002",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "71",
+            "player": "Daniil Odoevskiy",
+            "position": "GK",
+            "date_of_birth": "22/01/2003",
+            "height": "1.90 m",
+            "foot": "left",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "83",
+            "player": "Akim Belokhonov",
+            "position": "FW",
+            "date_of_birth": "21/01/2004",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "85",
+            "player": "Daniil Kuznetsov",
+            "position": "FW",
+            "date_of_birth": "23/04/2003",
+            "height": "1.82 m",
+            "foot": "both",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "91",
+            "player": "David Byazrov",
+            "position": "GK",
+            "date_of_birth": "12/02/2003",
+            "height": "1.90 m",
+            "foot": "-",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "number": "94",
+            "player": "Danila Khotulev",
+            "position": "DF",
+            "date_of_birth": "01/10/2002",
+            "height": "1.87 m",
+            "foot": "left",
+            "country_code": "ru",
+            "nationality": "Russian"
+        },
+        {
+            "player": "Sergei Semak",
+            "position": "Coach",
+            "date_of_birth": "27/02/1976",
+            "height": "1.78 m",
+            "foot": "both",
+            "country_code": "ru",
+            "nationality": "Russian"
+        }
+    ]
+}

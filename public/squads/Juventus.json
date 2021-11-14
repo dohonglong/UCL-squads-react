@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Wojciech Szczęsny",
+            "position": "GK",
+            "date_of_birth": "18/08/1990",
+            "height": "1.96 m",
+            "foot": "right",
+            "country_code": "pl",
+            "nationality": "Polish"
+        },
+        {
+            "number": "2",
+            "player": "Mattia De Sciglio",
+            "position": "DF",
+            "date_of_birth": "20/10/1992",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "3",
+            "player": "Giorgio Chiellini <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "14/08/1984",
+            "height": "1.87 m",
+            "foot": "left",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "4",
+            "player": "Matthijs de Ligt",
+            "position": "DF",
+            "date_of_birth": "12/08/1999",
+            "height": "1.89 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "5",
+            "player": "Arthur",
+            "position": "MF",
+            "date_of_birth": "12/08/1996",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "6",
+            "player": "Danilo",
+            "position": "DF",
+            "date_of_birth": "15/07/1991",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "8",
+            "player": "Aaron Ramsey",
+            "position": "MF",
+            "date_of_birth": "26/12/1990",
+            "height": "1.82 m",
+            "foot": "both",
+            "country_code": "gb-wls",
+            "nationality": "Welsh"
+        },
+        {
+            "number": "9",
+            "player": "Álvaro Morata",
+            "position": "FW",
+            "date_of_birth": "23/10/1992",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "10",
+            "player": "Paulo Dybala",
+            "position": "FW",
+            "date_of_birth": "15/11/1993",
+            "height": "1.77 m",
+            "foot": "left",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "11",
+            "player": "Juan Cuadrado",
+            "position": "MF",
+            "date_of_birth": "26/05/1988",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "co",
+            "nationality": "Colombian"
+        },
+        {
+            "number": "12",
+            "player": "Alex Sandro",
+            "position": "DF",
+            "date_of_birth": "26/01/1991",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "14",
+            "player": "Weston McKennie",
+            "position": "MF",
+            "date_of_birth": "28/08/1998",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "18",
+            "player": "Moise Kean",
+            "position": "FW",
+            "date_of_birth": "28/02/2000",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "19",
+            "player": "Leonardo Bonucci",
+            "position": "DF",
+            "date_of_birth": "01/05/1987",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "20",
+            "player": "Federico Bernardeschi",
+            "position": "MF",
+            "date_of_birth": "16/02/1994",
+            "height": "1.83 m",
+            "foot": "left",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "22",
+            "player": "Federico Chiesa",
+            "position": "FW",
+            "date_of_birth": "25/10/1997",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "23",
+            "player": "Carlo Pinsoglio",
+            "position": "GK",
+            "date_of_birth": "16/03/1990",
+            "height": "1.94 m",
+            "foot": "left",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "24",
+            "player": "Daniele Rugani",
+            "position": "DF",
+            "date_of_birth": "29/07/1994",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "25",
+            "player": "Adrien Rabiot",
+            "position": "MF",
+            "date_of_birth": "03/04/1995",
+            "height": "1.88 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "27",
+            "player": "Manuel Locatelli",
+            "position": "MF",
+            "date_of_birth": "08/01/1998",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "30",
+            "player": "Rodrigo Bentancur",
+            "position": "MF",
+            "date_of_birth": "25/06/1997",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "uy",
+            "nationality": "Uruguayan"
+        },
+        {
+            "number": "34",
+            "player": "Matteo Anzolin",
+            "position": "DF",
+            "date_of_birth": "11/11/2000",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "36",
+            "player": "Mattia Perin",
+            "position": "GK",
+            "date_of_birth": "10/11/1992",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "43",
+            "player": "Marco Da Graca",
+            "position": "FW",
+            "date_of_birth": "01/05/2002",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "44",
+            "player": "Dejan Kulusevski",
+            "position": "MF",
+            "date_of_birth": "25/04/2000",
+            "height": "1.86 m",
+            "foot": "left",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "player": "Massimiliano Allegri",
+            "position": "Coach",
+            "date_of_birth": "11/08/1967",
+            "height": "1.81 m",
+            "foot": "-",
+            "country_code": "it",
+            "nationality": "Italian"
+        }
+    ]
+}

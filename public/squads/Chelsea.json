@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Kepa Arrizabalaga",
+            "position": "GK",
+            "date_of_birth": "03/10/1994",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "2",
+            "player": "Antonio Rüdiger",
+            "position": "DF",
+            "date_of_birth": "03/03/1993",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "3",
+            "player": "Marcos Alonso",
+            "position": "DF",
+            "date_of_birth": "28/12/1990",
+            "height": "1.89 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "4",
+            "player": "Andreas Christensen",
+            "position": "DF",
+            "date_of_birth": "10/04/1996",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "5",
+            "player": "Jorginho",
+            "position": "MF",
+            "date_of_birth": "20/12/1991",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "it",
+            "nationality": "Italian"
+        },
+        {
+            "number": "6",
+            "player": "Thiago Silva",
+            "position": "DF",
+            "date_of_birth": "22/09/1984",
+            "height": "1.81 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "7",
+            "player": "N'Golo Kanté",
+            "position": "MF",
+            "date_of_birth": "29/03/1991",
+            "height": "1.68 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "8",
+            "player": "Mateo Kovačić",
+            "position": "MF",
+            "date_of_birth": "06/05/1994",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "9",
+            "player": "Romelu Lukaku",
+            "position": "FW",
+            "date_of_birth": "13/05/1993",
+            "height": "1.91 m",
+            "foot": "left",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "10",
+            "player": "Christian Pulisic",
+            "position": "FW",
+            "date_of_birth": "18/09/1998",
+            "height": "1.77 m",
+            "foot": "right",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "11",
+            "player": "Timo Werner",
+            "position": "FW",
+            "date_of_birth": "06/03/1996",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "12",
+            "player": "Ruben Loftus-Cheek",
+            "position": "MF",
+            "date_of_birth": "23/01/1996",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "13",
+            "player": "Marcus Bettinelli",
+            "position": "GK",
+            "date_of_birth": "24/05/1992",
+            "height": "1.93 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "14",
+            "player": "Trevoh Chalobah",
+            "position": "DF",
+            "date_of_birth": "05/07/1999",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "16",
+            "player": "Edouard Mendy",
+            "position": "GK",
+            "date_of_birth": "01/03/1992",
+            "height": "1.95 m",
+            "foot": "right",
+            "country_code": "sn",
+            "nationality": "Senegalese"
+        },
+        {
+            "number": "17",
+            "player": "Saúl Ñíguez",
+            "position": "MF",
+            "date_of_birth": "21/11/1994",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "18",
+            "player": "Ross Barkley",
+            "position": "MF",
+            "date_of_birth": "05/12/1993",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "19",
+            "player": "Mason Mount",
+            "position": "MF",
+            "date_of_birth": "10/01/1999",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "21",
+            "player": "Ben Chilwell",
+            "position": "DF",
+            "date_of_birth": "21/12/1996",
+            "height": "1.80 m",
+            "foot": "left",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "22",
+            "player": "Hakim Ziyech",
+            "position": "MF",
+            "date_of_birth": "19/03/1993",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "24",
+            "player": "Reece James",
+            "position": "DF",
+            "date_of_birth": "08/12/1999",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "28",
+            "player": "César Azpilicueta <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "28/08/1989",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "29",
+            "player": "Kai Havertz",
+            "position": "MF",
+            "date_of_birth": "11/06/1999",
+            "height": "1.89 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "31",
+            "player": "Malang Sarr",
+            "position": "DF",
+            "date_of_birth": "23/01/1999",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "32",
+            "player": "Lewis Baker",
+            "position": "MF",
+            "date_of_birth": "25/04/1995",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "player": "Thomas Tuchel",
+            "position": "Coach",
+            "date_of_birth": "29/08/1973",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        }
+    ]
+}

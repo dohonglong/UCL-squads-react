@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Koen Casteels <b>(captain)</b>",
+            "position": "GK",
+            "date_of_birth": "25/06/1992",
+            "height": "1.97 m",
+            "foot": "left",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "3",
+            "player": "Sebastiaan Bornauw",
+            "position": "DF",
+            "date_of_birth": "22/03/1999",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "4",
+            "player": "Maxence Lacroix",
+            "position": "DF",
+            "date_of_birth": "06/04/2000",
+            "height": "1.90 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "5",
+            "player": "Micky van de Ven",
+            "position": "DF",
+            "date_of_birth": "19/04/2001",
+            "height": "1.93 m",
+            "foot": "left",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "6",
+            "player": "Paulo Otávio",
+            "position": "DF",
+            "date_of_birth": "23/11/1994",
+            "height": "1.73 m",
+            "foot": "left",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "7",
+            "player": "Luca Waldschmidt",
+            "position": "FW",
+            "date_of_birth": "19/05/1996",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "8",
+            "player": "Aster Vranckx",
+            "position": "MF",
+            "date_of_birth": "04/10/2002",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "9",
+            "player": "Wout Weghorst",
+            "position": "FW",
+            "date_of_birth": "07/08/1992",
+            "height": "1.97 m",
+            "foot": "right",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "10",
+            "player": "Lukas Nmecha",
+            "position": "FW",
+            "date_of_birth": "14/12/1998",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "11",
+            "player": "Renato Steffen",
+            "position": "MF",
+            "date_of_birth": "03/11/1991",
+            "height": "1.70 m",
+            "foot": "left",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "12",
+            "player": "Pavao Pervan",
+            "position": "GK",
+            "date_of_birth": "13/11/1987",
+            "height": "1.94 m",
+            "foot": "both",
+            "country_code": "at",
+            "nationality": "Austrian"
+        },
+        {
+            "number": "15",
+            "player": "Jérôme Roussillon",
+            "position": "DF",
+            "date_of_birth": "06/01/1993",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "17",
+            "player": "Maximilian Philipp",
+            "position": "FW",
+            "date_of_birth": "01/03/1994",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "18",
+            "player": "Anselmo García McNulty",
+            "position": "DF",
+            "date_of_birth": "19/02/2003",
+            "height": "1.87 m",
+            "foot": "left",
+            "country_code": "ie",
+            "nationality": "Irish"
+        },
+        {
+            "number": "19",
+            "player": "Kevin Mbabu",
+            "position": "DF",
+            "date_of_birth": "19/04/1995",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "ch",
+            "nationality": "Swiss"
+        },
+        {
+            "number": "20",
+            "player": "Ridle Baku",
+            "position": "MF",
+            "date_of_birth": "08/04/1998",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "22",
+            "player": "Felix Nmecha",
+            "position": "MF",
+            "date_of_birth": "10/10/2000",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "gb-eng",
+            "nationality": "English"
+        },
+        {
+            "number": "23",
+            "player": "Josuha Guilavogui",
+            "position": "MF",
+            "date_of_birth": "19/09/1990",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "25",
+            "player": "John Brooks",
+            "position": "DF",
+            "date_of_birth": "28/01/1993",
+            "height": "1.93 m",
+            "foot": "left",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "27",
+            "player": "Maximilian Arnold",
+            "position": "MF",
+            "date_of_birth": "27/05/1994",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "28",
+            "player": "Dodi Lukébakio",
+            "position": "FW",
+            "date_of_birth": "24/09/1997",
+            "height": "1.87 m",
+            "foot": "left",
+            "country_code": "be",
+            "nationality": "Belgian"
+        },
+        {
+            "number": "30",
+            "player": "Niklas Klinger",
+            "position": "GK",
+            "date_of_birth": "13/10/1995",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "31",
+            "player": "Yannick Gerhardt",
+            "position": "MF",
+            "date_of_birth": "13/03/1994",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "33",
+            "player": "Daniel Ginczek",
+            "position": "FW",
+            "date_of_birth": "13/04/1991",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "number": "38",
+            "player": "Jannis Lang",
+            "position": "DF",
+            "date_of_birth": "12/07/2002",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "de",
+            "nationality": "German"
+        },
+        {
+            "player": "Florian Kohfeldt",
+            "position": "Coach",
+            "date_of_birth": "05/10/1982",
+            "height": "-",
+            "foot": "-",
+            "country_code": "de",
+            "nationality": "German"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Melker Ellborg",
+            "position": "GK",
+            "date_of_birth": "22/05/2003",
+            "height": "1.91 m",
+            "foot": "-",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "2",
+            "player": "Eric Larsson",
+            "position": "DF",
+            "date_of_birth": "15/07/1991",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "4",
+            "player": "Niklas Moisander",
+            "position": "DF",
+            "date_of_birth": "29/09/1985",
+            "height": "1.83 m",
+            "foot": "left",
+            "country_code": "fi",
+            "nationality": "Finnish"
+        },
+        {
+            "number": "5",
+            "player": "Søren Rieks",
+            "position": "MF",
+            "date_of_birth": "07/04/1987",
+            "height": "1.84 m",
+            "foot": "both",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "6",
+            "player": "Oscar Lewicki",
+            "position": "MF",
+            "date_of_birth": "14/07/1992",
+            "height": "1.73 m",
+            "foot": "both",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "7",
+            "player": "Erdal Rakip",
+            "position": "MF",
+            "date_of_birth": "13/02/1996",
+            "height": "1.79 m",
+            "foot": "right",
+            "country_code": "mk",
+            "nationality": "Macedonian"
+        },
+        {
+            "number": "8",
+            "player": "Sergio Peña",
+            "position": "MF",
+            "date_of_birth": "28/09/1995",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "pe",
+            "nationality": "Peruvian"
+        },
+        {
+            "number": "9",
+            "player": "Antonio Čolak",
+            "position": "FW",
+            "date_of_birth": "17/09/1993",
+            "height": "1.88 m",
+            "foot": "right",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "10",
+            "player": "Anders Christiansen <b>(captain)</b>",
+            "position": "MF",
+            "date_of_birth": "08/06/1990",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "13",
+            "player": "Martin Olsson",
+            "position": "DF",
+            "date_of_birth": "17/05/1988",
+            "height": "1.78 m",
+            "foot": "left",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "14",
+            "player": "Felix Beijmo",
+            "position": "DF",
+            "date_of_birth": "31/01/1998",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "15",
+            "player": "Anel Ahmedhodžić",
+            "position": "DF",
+            "date_of_birth": "26/03/1999",
+            "height": "1.92 m",
+            "foot": "right",
+            "country_code": "ba",
+            "nationality": "Bosnian"
+        },
+        {
+            "number": "17",
+            "player": "Malik Abubakari",
+            "position": "FW",
+            "date_of_birth": "10/05/2000",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "gh",
+            "nationality": "Ghanaian"
+        },
+        {
+            "number": "18",
+            "player": "Romain Gall",
+            "position": "MF",
+            "date_of_birth": "31/01/1995",
+            "height": "1.76 m",
+            "foot": "both",
+            "country_code": "um",
+            "nationality": "American"
+        },
+        {
+            "number": "19",
+            "player": "Veljko Birmančević",
+            "position": "MF",
+            "date_of_birth": "05/03/1998",
+            "height": "1.79 m",
+            "foot": "both",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "20",
+            "player": "Bonke Innocent",
+            "position": "MF",
+            "date_of_birth": "20/01/1996",
+            "height": "1.80 m",
+            "foot": "right",
+            "country_code": "ng",
+            "nationality": "Nigerian"
+        },
+        {
+            "number": "21",
+            "player": "Peter Gwargis",
+            "position": "MF",
+            "date_of_birth": "04/09/2000",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "22",
+            "player": "Adi Nalić",
+            "position": "FW",
+            "date_of_birth": "01/12/1997",
+            "height": "1.90 m",
+            "foot": "both",
+            "country_code": "ba",
+            "nationality": "Bosnian"
+        },
+        {
+            "number": "24",
+            "player": "Lasse Nielsen",
+            "position": "DF",
+            "date_of_birth": "08/01/1988",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "27",
+            "player": "Johan Dahlin",
+            "position": "GK",
+            "date_of_birth": "08/09/1986",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "29",
+            "player": "Noah Eile",
+            "position": "DF",
+            "date_of_birth": "19/07/2002",
+            "height": "1.95 m",
+            "foot": "-",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "30",
+            "player": "Ismael Diawara",
+            "position": "GK",
+            "date_of_birth": "11/11/1994",
+            "height": "1.94 m",
+            "foot": "right",
+            "country_code": "ml",
+            "nationality": "Malian"
+        },
+        {
+            "number": "31",
+            "player": "Franz Brorsson",
+            "position": "DF",
+            "date_of_birth": "30/01/1996",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "32",
+            "player": "Jo Inge Berget",
+            "position": "MF",
+            "date_of_birth": "11/09/1990",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "no",
+            "nationality": "Norwegian"
+        },
+        {
+            "number": "37",
+            "player": "Sebastian Nanasi",
+            "position": "MF",
+            "date_of_birth": "16/05/2002",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "player": "Jon Dahl Tomasson",
+            "position": "Coach",
+            "date_of_birth": "29/08/1976",
+            "height": "1.82 m",
+            "foot": "right",
+            "country_code": "dk",
+            "nationality": "Danish"
+        }
+    ]
+}

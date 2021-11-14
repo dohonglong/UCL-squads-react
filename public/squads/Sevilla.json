@@ -1,0 +1,263 @@
+{
+    "squad": [
+        {
+            "number": "1",
+            "player": "Marko Dmitrović",
+            "position": "GK",
+            "date_of_birth": "24/01/1992",
+            "height": "1.94 m",
+            "foot": "left",
+            "country_code": "rs",
+            "nationality": "Serbian"
+        },
+        {
+            "number": "2",
+            "player": "Gonzalo Montiel",
+            "position": "DF",
+            "date_of_birth": "01/01/1997",
+            "height": "1.76 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "3",
+            "player": "Ludwig Augustinsson",
+            "position": "DF",
+            "date_of_birth": "21/04/1994",
+            "height": "1.81 m",
+            "foot": "left",
+            "country_code": "se",
+            "nationality": "Swedish"
+        },
+        {
+            "number": "4",
+            "player": "Karim Rekik",
+            "position": "DF",
+            "date_of_birth": "02/12/1994",
+            "height": "1.86 m",
+            "foot": "left",
+            "country_code": "nl",
+            "nationality": "Dutch"
+        },
+        {
+            "number": "5",
+            "player": "Lucas Ocampos",
+            "position": "FW",
+            "date_of_birth": "11/07/1994",
+            "height": "1.87 m",
+            "foot": "both",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "7",
+            "player": "Suso",
+            "position": "FW",
+            "date_of_birth": "19/11/1993",
+            "height": "1.77 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "8",
+            "player": "Joan Jordán",
+            "position": "MF",
+            "date_of_birth": "06/07/1994",
+            "height": "1.85 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "10",
+            "player": "Ivan Rakitić",
+            "position": "MF",
+            "date_of_birth": "10/03/1988",
+            "height": "1.84 m",
+            "foot": "right",
+            "country_code": "hr",
+            "nationality": "Croatian"
+        },
+        {
+            "number": "11",
+            "player": "Munir",
+            "position": "FW",
+            "date_of_birth": "01/09/1995",
+            "height": "1.75 m",
+            "foot": "left",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "12",
+            "player": "Rafa Mir",
+            "position": "FW",
+            "date_of_birth": "18/06/1997",
+            "height": "1.91 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "13",
+            "player": "Bono",
+            "position": "GK",
+            "date_of_birth": "05/04/1991",
+            "height": "1.92 m",
+            "foot": "left",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "14",
+            "player": "Óscar Rodríguez",
+            "position": "MF",
+            "date_of_birth": "28/06/1998",
+            "height": "1.74 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "15",
+            "player": "Youssef En-Nesyri",
+            "position": "FW",
+            "date_of_birth": "01/06/1997",
+            "height": "1.89 m",
+            "foot": "left",
+            "country_code": "ma",
+            "nationality": "Moroccan"
+        },
+        {
+            "number": "16",
+            "player": "Jesús Navas <b>(captain)</b>",
+            "position": "DF",
+            "date_of_birth": "21/11/1985",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "17",
+            "player": "Erik Lamela",
+            "position": "FW",
+            "date_of_birth": "04/03/1992",
+            "height": "1.84 m",
+            "foot": "left",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "18",
+            "player": "Thomas Delaney",
+            "position": "MF",
+            "date_of_birth": "03/09/1991",
+            "height": "1.82 m",
+            "foot": "left",
+            "country_code": "dk",
+            "nationality": "Danish"
+        },
+        {
+            "number": "19",
+            "player": "Marcos Acuña",
+            "position": "DF",
+            "date_of_birth": "28/10/1991",
+            "height": "1.72 m",
+            "foot": "left",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "20",
+            "player": "Diego Carlos",
+            "position": "DF",
+            "date_of_birth": "15/03/1993",
+            "height": "1.86 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "21",
+            "player": "Óliver Torres",
+            "position": "MF",
+            "date_of_birth": "10/11/1994",
+            "height": "1.75 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "23",
+            "player": "Jules Koundé",
+            "position": "DF",
+            "date_of_birth": "12/11/1998",
+            "height": "1.78 m",
+            "foot": "right",
+            "country_code": "fr",
+            "nationality": "French"
+        },
+        {
+            "number": "24",
+            "player": "Papu Gómez",
+            "position": "FW",
+            "date_of_birth": "15/02/1988",
+            "height": "1.67 m",
+            "foot": "right",
+            "country_code": "ar",
+            "nationality": "Argentinian"
+        },
+        {
+            "number": "25",
+            "player": "Fernando",
+            "position": "MF",
+            "date_of_birth": "25/07/1987",
+            "height": "1.83 m",
+            "foot": "right",
+            "country_code": "br",
+            "nationality": "Brazilian"
+        },
+        {
+            "number": "26",
+            "player": "Pablo Pérez",
+            "position": "DF",
+            "date_of_birth": "18/08/2001",
+            "height": "1.74 m",
+            "foot": "left",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "29",
+            "player": "Juanmi García",
+            "position": "DF",
+            "date_of_birth": "09/07/2001",
+            "height": "1.87 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "number": "36",
+            "player": "Iván Romero",
+            "position": "FW",
+            "date_of_birth": "10/04/2001",
+            "height": "1.72 m",
+            "foot": "right",
+            "country_code": "es",
+            "nationality": "Spanish"
+        },
+        {
+            "player": "Julen Lopetegui",
+            "position": "Coach",
+            "date_of_birth": "28/09/1966",
+            "height": "1.85 m",
+            "foot": "-",
+            "country_code": "es",
+            "nationality": "Spanish"
+        }
+    ]
+}
